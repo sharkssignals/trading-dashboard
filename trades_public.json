@@ -63,6 +63,27 @@
     "opened_at": "2026-04-13T22:14:01.252498+00:00",
     "closed_at": "2026-04-14T00:51:50.783154+00:00"
   },
+  "10971": {
+    "coin": "BNB",
+    "direction": "LONG",
+    "entry_price": 614.6,
+    "take_profits": [
+      620.92,
+      627.27,
+      639.97
+    ],
+    "stop_loss": 589.17,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.1253,
+    "source_msg_id": 10971,
+    "forwarded_msg_id": 734,
+    "opened_at": "2026-04-13T22:16:56.435244+00:00",
+    "closed_at": "2026-04-14T18:47:27.163848+00:00"
+  },
   "10976": {
     "coin": "STX",
     "direction": "LONG",
@@ -85,6 +106,25 @@
     "opened_at": "2026-04-13T22:23:45.014888+00:00",
     "closed_at": "2026-04-14T00:47:24.582722+00:00"
   },
+  "10988": {
+    "coin": "FIL",
+    "direction": "LONG",
+    "entry_price": 0.924,
+    "take_profits": [
+      0.936,
+      0.947,
+      0.97
+    ],
+    "stop_loss": 0.878,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -24.8918,
+    "source_msg_id": 10988,
+    "forwarded_msg_id": 745,
+    "opened_at": "2026-04-13T22:30:33.376849+00:00",
+    "closed_at": "2026-04-14T18:47:15.700969+00:00"
+  },
   "11008": {
     "coin": "DYDX",
     "direction": "LONG",
@@ -105,5 +145,24 @@
     "forwarded_msg_id": 759,
     "opened_at": "2026-04-13T23:53:13.437325+00:00",
     "closed_at": "2026-04-14T03:33:53.633151+00:00"
+  },
+  "11019": {
+    "coin": "CRV",
+    "direction": "LONG",
+    "entry_price": 0.222,
+    "take_profits": [
+      0.225,
+      0.228,
+      0.233
+    ],
+    "stop_loss": 0.211,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -24.7748,
+    "source_msg_id": 11019,
+    "forwarded_msg_id": 770,
+    "opened_at": "2026-04-14T13:13:10.514625+00:00",
+    "closed_at": "2026-04-14T18:47:14.951847+00:00"
   }
 }
