@@ -125,6 +125,25 @@
     "opened_at": "2026-04-13T22:30:33.376849+00:00",
     "closed_at": "2026-04-14T18:47:15.700969+00:00"
   },
+  "10999": {
+    "coin": "SAND",
+    "direction": "LONG",
+    "entry_price": 0.07952,
+    "take_profits": [
+      0.08051,
+      0.08151,
+      0.0835
+    ],
+    "stop_loss": 0.07554,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -25.0252,
+    "source_msg_id": 10999,
+    "forwarded_msg_id": 752,
+    "opened_at": "2026-04-13T23:00:33.449623+00:00",
+    "closed_at": "2026-04-14T18:50:16.543528+00:00"
+  },
   "11008": {
     "coin": "DYDX",
     "direction": "LONG",
