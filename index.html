@@ -292,16 +292,18 @@ function render(trades) {
     </div>
 
     <div class="panel">
-      <div class="panel-title"><span>◆</span> Trade Log</div>
+      <div class="panel-title"><span>◆</span> Trade Log <span style="font-size:10px;color:var(--text3);margin-left:auto" id="tradeCount"></span></div>
       <div class="trade-filters">
         <button class="filter-btn active" onclick="filterTrades('all',this)">All</button>
         <button class="filter-btn" onclick="filterTrades('wins',this)">Wins</button>
         <button class="filter-btn" onclick="filterTrades('losses',this)">Losses</button>
       </div>
+      <div style="max-height:520px;overflow-y:auto;border-radius:6px;scrollbar-width:thin;scrollbar-color:var(--border2) var(--bg3)">
       <table class="trade-table">
-        <thead><tr><th>Asset</th><th>Direction</th><th>Leverage</th><th>Date</th><th>P&L</th><th>Result</th></tr></thead>
+        <thead style="position:sticky;top:0;background:var(--bg2);z-index:1"><tr><th>Asset</th><th>Direction</th><th>Leverage</th><th>Date</th><th>P&L</th><th>Result</th></tr></thead>
         <tbody id="tradeBody"></tbody>
       </table>
+      </div>
     </div>
 
     <footer>
@@ -393,6 +395,7 @@ function render(trades) {
 }
 
 function renderTradeLog(trades) {
+  document.getElementById('tradeCount').textContent = `${trades.length} trades`;
   document.getElementById('tradeBody').innerHTML = trades.map(t => {
     const dir = t.direction === 'LONG' ? '<span class="tag long">LONG</span>' : '<span class="tag short">SHORT</span>';
     const h = (t.tps_hit||[]).length;
