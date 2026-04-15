@@ -127,6 +127,27 @@
     "opened_at": "2026-04-13T22:23:45.014888+00:00",
     "closed_at": "2026-04-14T00:47:24.582722+00:00"
   },
+  "10979": {
+    "coin": "UNI",
+    "direction": "LONG",
+    "entry_price": 3.219,
+    "take_profits": [
+      3.2592,
+      3.2995,
+      3.38
+    ],
+    "stop_loss": 3.058,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 6.2131,
+    "source_msg_id": 10979,
+    "forwarded_msg_id": 739,
+    "opened_at": "2026-04-13T22:24:14.666776+00:00",
+    "closed_at": "2026-04-15T20:08:42.999261+00:00"
+  },
   "10988": {
     "coin": "FIL",
     "direction": "LONG",
