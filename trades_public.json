@@ -84,6 +84,27 @@
     "opened_at": "2026-04-13T22:16:56.435244+00:00",
     "closed_at": "2026-04-14T18:47:27.163848+00:00"
   },
+  "10974": {
+    "coin": "BIGTIME",
+    "direction": "LONG",
+    "entry_price": 0.01291,
+    "take_profits": [
+      0.0130714,
+      0.0132327,
+      0.0135555
+    ],
+    "stop_loss": 0.0122645,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 6.1967,
+    "source_msg_id": 10974,
+    "forwarded_msg_id": 736,
+    "opened_at": "2026-04-13T22:19:20.609918+00:00",
+    "closed_at": "2026-04-15T03:02:35.792527+00:00"
+  },
   "10976": {
     "coin": "STX",
     "direction": "LONG",
