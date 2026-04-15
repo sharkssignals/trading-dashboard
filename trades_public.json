@@ -269,5 +269,26 @@
     "forwarded_msg_id": 785,
     "opened_at": "2026-04-15T05:13:33.101088+00:00",
     "closed_at": "2026-04-15T08:34:22.218453+00:00"
+  },
+  "11046": {
+    "coin": "GALA",
+    "direction": "LONG",
+    "entry_price": 0.00307,
+    "take_profits": [
+      0.00311,
+      0.00315,
+      0.00322
+    ],
+    "stop_loss": 0.00292,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 6.5147,
+    "source_msg_id": 11046,
+    "forwarded_msg_id": 791,
+    "opened_at": "2026-04-15T13:06:00.725542+00:00",
+    "closed_at": "2026-04-15T15:07:06.867353+00:00"
   }
 }
