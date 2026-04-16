@@ -270,6 +270,27 @@
     "opened_at": "2026-04-14T13:13:10.514625+00:00",
     "closed_at": "2026-04-14T18:47:14.951847+00:00"
   },
+  "11026": {
+    "coin": "1000SHIB",
+    "direction": "LONG",
+    "entry_price": 0.006022,
+    "take_profits": [
+      0.006094,
+      0.006166,
+      0.006311
+    ],
+    "stop_loss": 0.005733,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.9781,
+    "source_msg_id": 11026,
+    "forwarded_msg_id": 775,
+    "opened_at": "2026-04-14T14:33:16.516178+00:00",
+    "closed_at": "2026-04-16T10:06:33.866463+00:00"
+  },
   "11028": {
     "coin": "APT",
     "direction": "LONG",
