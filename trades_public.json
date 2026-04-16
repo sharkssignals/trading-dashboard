@@ -210,6 +210,28 @@
     "opened_at": "2026-04-13T22:31:03.782562+00:00",
     "closed_at": "2026-04-16T06:27:50.552849+00:00"
   },
+  "10996": {
+    "coin": "AVAX",
+    "direction": "LONG",
+    "entry_price": 9.61,
+    "take_profits": [
+      9.7301,
+      9.8502,
+      10.0905
+    ],
+    "stop_loss": 9.1295,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 9.7121,
+    "source_msg_id": 10996,
+    "forwarded_msg_id": 750,
+    "opened_at": "2026-04-13T22:55:43.201796+00:00",
+    "closed_at": "2026-04-16T20:20:31.208399+00:00"
+  },
   "10999": {
     "coin": "SAND",
     "direction": "LONG",
