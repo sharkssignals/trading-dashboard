@@ -167,6 +167,28 @@
     "opened_at": "2026-04-13T22:30:33.376849+00:00",
     "closed_at": "2026-04-14T18:47:15.700969+00:00"
   },
+  "10991": {
+    "coin": "1000XEC",
+    "direction": "LONG",
+    "entry_price": 0.00704,
+    "take_profits": [
+      0.00713,
+      0.00722,
+      0.00739
+    ],
+    "stop_loss": 0.00669,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 9.9432,
+    "source_msg_id": 10991,
+    "forwarded_msg_id": 746,
+    "opened_at": "2026-04-13T22:31:03.782562+00:00",
+    "closed_at": "2026-04-16T06:27:50.552849+00:00"
+  },
   "10999": {
     "coin": "SAND",
     "direction": "LONG",
