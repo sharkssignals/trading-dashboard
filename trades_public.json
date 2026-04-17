@@ -397,5 +397,27 @@
     "forwarded_msg_id": 791,
     "opened_at": "2026-04-15T13:06:00.725542+00:00",
     "closed_at": "2026-04-15T15:07:06.867353+00:00"
+  },
+  "11076": {
+    "coin": "BCH",
+    "direction": "LONG",
+    "entry_price": 443.9,
+    "take_profits": [
+      448.06,
+      452.28,
+      460.7
+    ],
+    "stop_loss": 427.0,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.359,
+    "source_msg_id": 11076,
+    "forwarded_msg_id": 816,
+    "opened_at": "2026-04-16T18:47:01.663385+00:00",
+    "closed_at": "2026-04-17T05:07:17.346854+00:00"
   }
 }
