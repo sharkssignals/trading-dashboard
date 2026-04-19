@@ -419,5 +419,27 @@
     "forwarded_msg_id": 816,
     "opened_at": "2026-04-16T18:47:01.663385+00:00",
     "closed_at": "2026-04-17T05:07:17.346854+00:00"
+  },
+  "11083": {
+    "coin": "NEAR",
+    "direction": "SHORT",
+    "entry_price": 1.37,
+    "take_profits": [
+      1.3529,
+      1.3357,
+      1.3015
+    ],
+    "stop_loss": 1.4385,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 9.6513,
+    "source_msg_id": 11083,
+    "forwarded_msg_id": 823,
+    "opened_at": "2026-04-18T13:31:18.156747+00:00",
+    "closed_at": "2026-04-19T04:14:11.679221+00:00"
   }
 }
