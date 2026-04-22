@@ -482,5 +482,26 @@
     "forwarded_msg_id": 834,
     "opened_at": "2026-04-21T19:53:12.212706+00:00",
     "closed_at": "2026-04-22T03:06:55.401170+00:00"
+  },
+  "11113": {
+    "coin": "OP",
+    "direction": "LONG",
+    "entry_price": 0.126,
+    "take_profits": [
+      0.12755,
+      0.1291,
+      0.1322
+    ],
+    "stop_loss": 0.1198,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.9524,
+    "source_msg_id": 11113,
+    "forwarded_msg_id": 841,
+    "opened_at": "2026-04-22T04:11:42.739796+00:00",
+    "closed_at": "2026-04-22T12:32:38.757854+00:00"
   }
 }
