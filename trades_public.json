@@ -567,5 +567,26 @@
     "forwarded_msg_id": 841,
     "opened_at": "2026-04-22T04:11:42.739796+00:00",
     "closed_at": "2026-04-22T12:32:38.757854+00:00"
+  },
+  "11126": {
+    "coin": "CRV",
+    "direction": "SHORT",
+    "entry_price": 0.224,
+    "take_profits": [
+      0.221,
+      0.218,
+      0.213
+    ],
+    "stop_loss": 0.235,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 6.6964,
+    "source_msg_id": 11126,
+    "forwarded_msg_id": 850,
+    "opened_at": "2026-04-23T00:15:19.648337+00:00",
+    "closed_at": "2026-04-23T04:48:49.007010+00:00"
   }
 }
