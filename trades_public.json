@@ -588,5 +588,26 @@
     "forwarded_msg_id": 850,
     "opened_at": "2026-04-23T00:15:19.648337+00:00",
     "closed_at": "2026-04-23T04:48:49.007010+00:00"
+  },
+  "11130": {
+    "coin": "MEME",
+    "direction": "SHORT",
+    "entry_price": 0.000561,
+    "take_profits": [
+      0.0005539,
+      0.0005469,
+      0.0005329
+    ],
+    "stop_loss": 0.0005889,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 6.2389,
+    "source_msg_id": 11130,
+    "forwarded_msg_id": 853,
+    "opened_at": "2026-04-23T00:16:50.571599+00:00",
+    "closed_at": "2026-04-23T05:02:13.001295+00:00"
   }
 }
