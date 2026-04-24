@@ -692,5 +692,26 @@
     "forwarded_msg_id": 911,
     "opened_at": "2026-04-24T16:00:45.633219+00:00",
     "closed_at": "2026-04-24T19:15:07.046604+00:00"
+  },
+  "11192": {
+    "coin": "CHILLGUY",
+    "direction": "SHORT",
+    "entry_price": 0.01291,
+    "take_profits": [
+      0.01258,
+      0.0123,
+      0.01205
+    ],
+    "stop_loss": 0.01316,
+    "leverage": 20,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 12.6382,
+    "source_msg_id": 11192,
+    "forwarded_msg_id": 917,
+    "opened_at": "2026-04-24T20:23:41.856769+00:00",
+    "closed_at": "2026-04-24T20:40:10.478720+00:00"
   }
 }
