@@ -672,6 +672,28 @@
     "opened_at": "2026-04-24T01:57:22.372089+00:00",
     "closed_at": "2026-04-24T10:46:41.107974+00:00"
   },
+  "11178": {
+    "coin": "APT",
+    "direction": "LONG",
+    "entry_price": 0.961,
+    "take_profits": [
+      0.9705,
+      0.9798,
+      0.9984
+    ],
+    "stop_loss": 0.924,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.8044,
+    "source_msg_id": 11178,
+    "forwarded_msg_id": 903,
+    "opened_at": "2026-04-24T11:47:55.580996+00:00",
+    "closed_at": "2026-04-25T07:46:35.918612+00:00"
+  },
   "11186": {
     "coin": "GALA",
     "direction": "LONG",
