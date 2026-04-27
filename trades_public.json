@@ -796,5 +796,26 @@
     "forwarded_msg_id": 926,
     "opened_at": "2026-04-26T16:36:56.156124+00:00",
     "closed_at": "2026-04-27T05:22:05.850331+00:00"
+  },
+  "11223": {
+    "coin": "BANANA",
+    "direction": "SHORT",
+    "entry_price": 3.885,
+    "take_profits": [
+      3.78,
+      3.7,
+      3.62
+    ],
+    "stop_loss": 3.96,
+    "leverage": 20,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 49.0323,
+    "source_msg_id": 11223,
+    "forwarded_msg_id": 933,
+    "opened_at": "2026-04-27T13:42:43.565174+00:00",
+    "closed_at": "2026-04-27T20:01:16.750061+00:00"
   }
 }
