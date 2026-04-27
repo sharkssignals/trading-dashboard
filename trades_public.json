@@ -756,5 +756,26 @@
     "forwarded_msg_id": 917,
     "opened_at": "2026-04-24T20:23:41.856769+00:00",
     "closed_at": "2026-04-25T00:54:26.553675+00:00"
+  },
+  "11207": {
+    "coin": "ONT",
+    "direction": "SHORT",
+    "entry_price": 0.0731,
+    "take_profits": [
+      0.0705,
+      0.0695,
+      0.068
+    ],
+    "stop_loss": 0.075,
+    "leverage": 20,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 47.0914,
+    "source_msg_id": 11207,
+    "forwarded_msg_id": 924,
+    "opened_at": "2026-04-26T15:26:29.522687+00:00",
+    "closed_at": "2026-04-27T01:10:59.526329+00:00"
   }
 }
