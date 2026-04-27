@@ -777,5 +777,24 @@
     "forwarded_msg_id": 924,
     "opened_at": "2026-04-26T15:26:29.522687+00:00",
     "closed_at": "2026-04-27T01:10:59.526329+00:00"
+  },
+  "11210": {
+    "coin": "SEI",
+    "direction": "LONG",
+    "entry_price": 0.06382499999999999,
+    "take_profits": [
+      0.066,
+      0.0674,
+      0.069
+    ],
+    "stop_loss": 0.0617,
+    "leverage": 20,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -65.8307,
+    "source_msg_id": 11210,
+    "forwarded_msg_id": 926,
+    "opened_at": "2026-04-26T16:36:56.156124+00:00",
+    "closed_at": "2026-04-27T05:22:05.850331+00:00"
   }
 }
