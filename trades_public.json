@@ -859,5 +859,24 @@
     "forwarded_msg_id": 933,
     "opened_at": "2026-04-27T13:42:43.565174+00:00",
     "closed_at": "2026-04-27T20:01:16.750061+00:00"
+  },
+  "11236": {
+    "coin": "INJ",
+    "direction": "SHORT",
+    "entry_price": 3.5075,
+    "take_profits": [
+      3.4,
+      3.31,
+      3.24
+    ],
+    "stop_loss": 3.57,
+    "leverage": 20,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -35.6379,
+    "source_msg_id": 11236,
+    "forwarded_msg_id": 944,
+    "opened_at": "2026-04-28T17:48:09.749415+00:00",
+    "closed_at": "2026-04-28T20:01:04.151684+00:00"
   }
 }
