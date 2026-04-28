@@ -860,6 +860,25 @@
     "opened_at": "2026-04-27T13:42:43.565174+00:00",
     "closed_at": "2026-04-27T20:01:16.750061+00:00"
   },
+  "11232": {
+    "coin": "DRIFT",
+    "direction": "SHORT",
+    "entry_price": 0.036775,
+    "take_profits": [
+      0.0398,
+      0.039,
+      0.0382
+    ],
+    "stop_loss": 0.036,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -20.4082,
+    "source_msg_id": 11232,
+    "forwarded_msg_id": 942,
+    "opened_at": "2026-04-28T17:40:50.500401+00:00",
+    "closed_at": "2026-04-28T22:05:03.945646+00:00"
+  },
   "11236": {
     "coin": "INJ",
     "direction": "SHORT",
