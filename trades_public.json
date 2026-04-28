@@ -818,6 +818,27 @@
     "opened_at": "2026-04-26T16:36:56.156124+00:00",
     "closed_at": "2026-04-27T05:22:05.850331+00:00"
   },
+  "11220": {
+    "coin": "ARKM",
+    "direction": "SHORT",
+    "entry_price": 0.116,
+    "take_profits": [
+      0.112,
+      0.109,
+      0.107
+    ],
+    "stop_loss": 0.119,
+    "leverage": 20,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 57.8035,
+    "source_msg_id": 11220,
+    "forwarded_msg_id": 931,
+    "opened_at": "2026-04-27T13:37:01.126419+00:00",
+    "closed_at": "2026-04-27T23:59:07.238012+00:00"
+  },
   "11223": {
     "coin": "BANANA",
     "direction": "SHORT",
