@@ -668,6 +668,29 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "11137": {
+    "coin": "1000XEC",
+    "direction": "SHORT",
+    "entry_price": 0.00697,
+    "take_profits": [
+      0.00688,
+      0.0068,
+      0.00662
+    ],
+    "stop_loss": 0.00732,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 6.4562,
+    "source_msg_id": 11137,
+    "forwarded_msg_id": 858,
+    "opened_at": "2026-04-23T02:43:20.934824+00:00",
+    "closed_at": "2026-04-29T20:04:11.482763+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "11141": {
     "coin": "DOT",
     "direction": "SHORT",
