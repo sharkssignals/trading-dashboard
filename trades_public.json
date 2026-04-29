@@ -736,6 +736,30 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "11157": {
+    "coin": "AVAX",
+    "direction": "SHORT",
+    "entry_price": 9.16,
+    "take_profits": [
+      9.0485,
+      8.9339,
+      8.7049
+    ],
+    "stop_loss": 9.6212,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 9.6434,
+    "source_msg_id": 11157,
+    "forwarded_msg_id": 876,
+    "opened_at": "2026-04-23T17:41:42.597812+00:00",
+    "closed_at": "2026-04-29T18:55:51.995848+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "11171": {
     "coin": "DOGE",
     "direction": "LONG",
