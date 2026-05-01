@@ -1052,6 +1052,29 @@
     "entry_high": 3.18,
     "entry_low": 3.132
   },
+  "11256": {
+    "coin": "MELANIA",
+    "direction": "SHORT",
+    "entry_price": 0.105,
+    "take_profits": [
+      0.102,
+      0.1,
+      0.098
+    ],
+    "stop_loss": 0.107,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 19.2308,
+    "source_msg_id": 11256,
+    "forwarded_msg_id": 959,
+    "opened_at": "2026-04-30T17:39:43.081555+00:00",
+    "closed_at": "2026-05-01T04:12:04.839842+00:00",
+    "entry_high": 0.106,
+    "entry_low": 0.104
+  },
   "11259": {
     "coin": "LISTA",
     "direction": "SHORT",
