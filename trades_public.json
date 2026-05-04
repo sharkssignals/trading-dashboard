@@ -1097,5 +1097,26 @@
     "closed_at": "2026-05-01T03:09:22.140436+00:00",
     "entry_high": 0.085,
     "entry_low": 0.08305
+  },
+  "11275": {
+    "coin": "DOT",
+    "direction": "LONG",
+    "entry_price": 1.2325,
+    "take_profits": [
+      1.265,
+      1.29,
+      1.32
+    ],
+    "stop_loss": 1.216,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -13.3874,
+    "source_msg_id": 11275,
+    "forwarded_msg_id": 975,
+    "opened_at": "2026-05-04T08:23:51.479072+00:00",
+    "closed_at": "2026-05-04T10:07:04.310503+00:00",
+    "entry_high": 1.24,
+    "entry_low": 1.225
   }
 }
