@@ -46,6 +46,30 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "10960": {
+    "coin": "ORDI",
+    "direction": "LONG",
+    "entry_price": 2.46,
+    "take_profits": [
+      2.49075,
+      2.5215,
+      2.583
+    ],
+    "stop_loss": 2.337,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 9.8013,
+    "source_msg_id": 10960,
+    "forwarded_msg_id": 725,
+    "opened_at": "2026-04-13T19:50:27.768018+00:00",
+    "closed_at": "2026-05-06T19:50:10.274655+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "10968": {
     "coin": "MEME",
     "direction": "LONG",
@@ -1139,5 +1163,52 @@
     "closed_at": "2026-05-04T10:07:04.310503+00:00",
     "entry_high": 1.24,
     "entry_low": 1.225
+  },
+  "11286": {
+    "coin": "VVV",
+    "direction": "LONG",
+    "entry_price": 9.996,
+    "take_profits": [
+      10.5,
+      10.8,
+      11.2
+    ],
+    "stop_loss": 9.4,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 30.2198,
+    "source_msg_id": 11286,
+    "forwarded_msg_id": 980,
+    "opened_at": "2026-05-05T18:27:53.182722+00:00",
+    "closed_at": "2026-05-06T19:50:10.274655+00:00",
+    "entry_high": 10.192,
+    "entry_low": 9.8
+  },
+  "11287": {
+    "coin": "ADA",
+    "direction": "LONG",
+    "entry_price": 0.25625,
+    "take_profits": [
+      0.264,
+      0.269,
+      0.275
+    ],
+    "stop_loss": 0.251,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 32.0224,
+    "source_msg_id": 11287,
+    "forwarded_msg_id": 983,
+    "opened_at": "2026-05-05T19:42:25.647659+00:00",
+    "closed_at": "2026-05-06T19:50:10.274655+00:00",
+    "entry_high": 0.2585,
+    "entry_low": 0.254
   }
 }
