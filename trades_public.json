@@ -367,6 +367,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "11021": {
+    "coin": "BCH",
+    "direction": "LONG",
+    "entry_price": 440.5,
+    "take_profits": [
+      445.84,
+      451.2,
+      461.91
+    ],
+    "stop_loss": 419.05,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11021,
+    "forwarded_msg_id": 772,
+    "opened_at": "2026-04-14T13:27:26.347665+00:00",
+    "closed_at": "2026-05-06T20:00:13.508611+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "11026": {
     "coin": "1000SHIB",
     "direction": "LONG",
@@ -804,6 +825,69 @@
     "forwarded_msg_id": 876,
     "opened_at": "2026-04-23T17:41:42.597812+00:00",
     "closed_at": "2026-04-29T18:55:51.995848+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "11159": {
+    "coin": "1000PEPE",
+    "direction": "SHORT",
+    "entry_price": 0.00371,
+    "take_profits": [
+      0.0036636,
+      0.0036173,
+      0.0035245
+    ],
+    "stop_loss": 0.0038955,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11159,
+    "forwarded_msg_id": 877,
+    "opened_at": "2026-04-23T17:41:43.010519+00:00",
+    "closed_at": "2026-05-06T20:00:13.508611+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "11161": {
+    "coin": "DOGE",
+    "direction": "SHORT",
+    "entry_price": 0.09522,
+    "take_profits": [
+      0.09438,
+      0.09354,
+      0.09186
+    ],
+    "stop_loss": 0.09858,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11161,
+    "forwarded_msg_id": 880,
+    "opened_at": "2026-04-23T17:41:44.154384+00:00",
+    "closed_at": "2026-05-06T20:00:13.508611+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "11167": {
+    "coin": "APT",
+    "direction": "SHORT",
+    "entry_price": 0.932,
+    "take_profits": [
+      0.91995,
+      0.90831,
+      0.88502
+    ],
+    "stop_loss": 0.97818,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11167,
+    "forwarded_msg_id": 890,
+    "opened_at": "2026-04-23T17:47:38.674985+00:00",
+    "closed_at": "2026-05-06T20:00:13.508611+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
