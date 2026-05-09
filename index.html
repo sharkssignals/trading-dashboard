@@ -147,7 +147,7 @@ async function loadData() {
     const raw = await r.json();
     const trades = Object.values(raw).filter(t =>
       ["CLOSED","SL","TP1","TP2","TP3"].includes(t.status)
-    ).sort((a,b) => a.closed_at.localeCompare(b.closed_at));
+    ).sort((a,b) => (a.closed_at || a.opened_at || "").localeCompare(b.closed_at || b.opened_at || ""));
     if (!trades.length) { document.getElementById('app').innerHTML = '<div class="loading">No closed trades yet.</div>'; return; }
     render(trades);
   } catch(e) {
