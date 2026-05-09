@@ -146,7 +146,7 @@ async function loadData() {
     const r = await fetch(DATA_URL);
     const raw = await r.json();
     const trades = Object.values(raw).filter(t =>
-      ['CLOSED','SL','TP1','TP2','TP3'].includes(t.status) && t.closed_at
+      ["CLOSED","SL","TP1","TP2","TP3"].includes(t.status)
     ).sort((a,b) => a.closed_at.localeCompare(b.closed_at));
     if (!trades.length) { document.getElementById('app').innerHTML = '<div class="loading">No closed trades yet.</div>'; return; }
     render(trades);
