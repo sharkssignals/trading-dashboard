@@ -1243,15 +1243,15 @@
     ],
     "stop_loss": 0.000426,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 31.5186,
+    "pnl_pct": 10.7832,
     "source_msg_id": 11294,
     "forwarded_msg_id": 992,
     "opened_at": "2026-05-06T17:55:26.705928+00:00",
-    "closed_at": "",
+    "closed_at": "2026-05-07T13:48:00+00:00",
     "entry_high": 0.0004405,
     "entry_low": 0.000432
   },
@@ -1266,15 +1266,15 @@
     ],
     "stop_loss": 0.0374,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 19.2837,
+    "pnl_pct": 9.6419,
     "source_msg_id": 11296,
     "forwarded_msg_id": 995,
     "opened_at": "2026-05-06T18:06:03.169122+00:00",
-    "closed_at": "",
+    "closed_at": "2026-05-06T22:08:00+00:00",
     "entry_high": 0.037,
     "entry_low": 0.0363
   },
@@ -1289,15 +1289,15 @@
     ],
     "stop_loss": 0.132,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 23.8908,
+    "pnl_pct": 11.9454,
     "source_msg_id": 11302,
     "forwarded_msg_id": 1002,
     "opened_at": "2026-05-07T17:26:35.601394+00:00",
-    "closed_at": "",
+    "closed_at": "2026-05-08T06:00:00+00:00",
     "entry_high": 0.1465,
     "entry_low": 0.138
   },
@@ -1333,15 +1333,15 @@
     ],
     "stop_loss": 0.0183,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 18.9497,
+    "pnl_pct": 9.3333,
     "source_msg_id": 11307,
     "forwarded_msg_id": 1010,
     "opened_at": "2026-05-08T17:44:43.227085+00:00",
-    "closed_at": "",
+    "closed_at": "2026-05-09T09:16:00+00:00",
     "entry_high": 0.01875,
     "entry_low": 0.0185
   },
@@ -1356,15 +1356,15 @@
     ],
     "stop_loss": 0.1055,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 13.4529,
+    "pnl_pct": 6.7265,
     "source_msg_id": 11309,
     "forwarded_msg_id": 1013,
     "opened_at": "2026-05-08T17:47:01.873306+00:00",
-    "closed_at": "",
+    "closed_at": "2026-05-08T19:23:00+00:00",
     "entry_high": 0.1115,
     "entry_low": 0.1065
   }
