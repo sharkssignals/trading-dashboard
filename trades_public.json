@@ -1143,6 +1143,27 @@
     "entry_high": 0.085,
     "entry_low": 0.08305
   },
+  "11269": {
+    "coin": "MANA",
+    "direction": "SHORT",
+    "entry_price": 0.089,
+    "take_profits": [
+      0.0868,
+      0.085,
+      0.0832
+    ],
+    "stop_loss": 0.0902,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -13.4831,
+    "source_msg_id": 11269,
+    "forwarded_msg_id": 969,
+    "opened_at": "2026-05-03T20:30:32.227921+00:00",
+    "closed_at": "2026-05-05T20:01:19+00:00",
+    "entry_high": 0.0894,
+    "entry_low": 0.0886
+  },
   "11272": {
     "coin": "AVAX",
     "direction": "LONG",
