@@ -599,6 +599,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "11107": {
+    "coin": "1000BONK",
+    "direction": "LONG",
+    "entry_price": 0.006247,
+    "take_profits": [
+      0.0063053,
+      0.0063635,
+      0.00648
+    ],
+    "stop_loss": 0.006014,
+    "leverage": 5,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11107,
+    "forwarded_msg_id": 837,
+    "opened_at": "2026-04-22T02:42:49.589916+00:00",
+    "closed_at": "2026-04-22T03:06:52.223714+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "11110": {
     "coin": "DOGE",
     "direction": "LONG",
@@ -1210,5 +1231,141 @@
     "closed_at": "2026-05-06T19:50:10.274655+00:00",
     "entry_high": 0.2585,
     "entry_low": 0.254
+  },
+  "11294": {
+    "coin": "1MBABYDOGE",
+    "direction": "LONG",
+    "entry_price": 0.00043625,
+    "take_profits": [
+      0.00045,
+      0.00046,
+      0.00047
+    ],
+    "stop_loss": 0.000426,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 31.5186,
+    "source_msg_id": 11294,
+    "forwarded_msg_id": 992,
+    "opened_at": "2026-05-06T17:55:26.705928+00:00",
+    "closed_at": "",
+    "entry_high": 0.0004405,
+    "entry_low": 0.000432
+  },
+  "11296": {
+    "coin": "DRIFT",
+    "direction": "SHORT",
+    "entry_price": 0.03665,
+    "take_profits": [
+      0.0356,
+      0.0347,
+      0.03395
+    ],
+    "stop_loss": 0.0374,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 19.2837,
+    "source_msg_id": 11296,
+    "forwarded_msg_id": 995,
+    "opened_at": "2026-05-06T18:06:03.169122+00:00",
+    "closed_at": "",
+    "entry_high": 0.037,
+    "entry_low": 0.0363
+  },
+  "11302": {
+    "coin": "OP",
+    "direction": "LONG",
+    "entry_price": 0.14225,
+    "take_profits": [
+      0.15,
+      0.156,
+      0.163
+    ],
+    "stop_loss": 0.132,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 23.8908,
+    "source_msg_id": 11302,
+    "forwarded_msg_id": 1002,
+    "opened_at": "2026-05-07T17:26:35.601394+00:00",
+    "closed_at": "",
+    "entry_high": 0.1465,
+    "entry_low": 0.138
+  },
+  "11304": {
+    "coin": "BAT",
+    "direction": "LONG",
+    "entry_price": 0.1074,
+    "take_profits": [
+      0.1105,
+      0.113,
+      0.1155
+    ],
+    "stop_loss": 0.1055,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11304,
+    "forwarded_msg_id": 1007,
+    "opened_at": "2026-05-08T17:30:28.784557+00:00",
+    "closed_at": "2026-05-08T17:43:18.397817+00:00",
+    "entry_high": 0.1083,
+    "entry_low": 0.1065
+  },
+  "11307": {
+    "coin": "MOVE",
+    "direction": "LONG",
+    "entry_price": 0.018625,
+    "take_profits": [
+      0.0191,
+      0.0195,
+      0.02
+    ],
+    "stop_loss": 0.0183,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 18.9497,
+    "source_msg_id": 11307,
+    "forwarded_msg_id": 1010,
+    "opened_at": "2026-05-08T17:44:43.227085+00:00",
+    "closed_at": "",
+    "entry_high": 0.01875,
+    "entry_low": 0.0185
+  },
+  "11309": {
+    "coin": "BAT",
+    "direction": "LONG",
+    "entry_price": 0.109,
+    "take_profits": [
+      0.113,
+      0.1155,
+      0.118
+    ],
+    "stop_loss": 0.1055,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 13.4529,
+    "source_msg_id": 11309,
+    "forwarded_msg_id": 1013,
+    "opened_at": "2026-05-08T17:47:01.873306+00:00",
+    "closed_at": "",
+    "entry_high": 0.1115,
+    "entry_low": 0.1065
   }
 }
