@@ -1400,11 +1400,12 @@
     ],
     "stop_loss": 0.258,
     "leverage": 10,
-    "status": "TP1",
+    "status": "TP2",
     "tps_hit": [
-      1
+      1,
+      2
     ],
-    "pnl_pct": 37.037,
+    "pnl_pct": 53.4979,
     "source_msg_id": 11312,
     "forwarded_msg_id": 1017,
     "opened_at": "2026-05-08T19:03:04.844760+00:00",
