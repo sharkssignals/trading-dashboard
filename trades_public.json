@@ -1436,27 +1436,6 @@
     "entry_high": 0.0386,
     "entry_low": 0.0374
   },
-  "11325": {
-    "coin": "1000SHIB",
-    "direction": "LONG",
-    "entry_price": 0.0065825,
-    "take_profits": [
-      0.0068,
-      0.00695,
-      0.0071
-    ],
-    "stop_loss": 0.0064,
-    "leverage": 10,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -27.725,
-    "source_msg_id": 11325,
-    "forwarded_msg_id": 1028,
-    "opened_at": "2026-05-10T19:18:51.577748+00:00",
-    "closed_at": "2026-05-12T12:31:59+00:00",
-    "entry_high": 0.006665,
-    "entry_low": 0.0065
-  },
   "11326": {
     "coin": "PIXEL",
     "direction": "LONG",
@@ -1477,28 +1456,5 @@
     "closed_at": "2026-05-10T20:48:36+00:00",
     "entry_high": 0.00866,
     "entry_low": 0.00856
-  },
-  "11330": {
-    "coin": "XRP",
-    "direction": "LONG",
-    "entry_price": 1.4585,
-    "take_profits": [
-      1.52,
-      1.56,
-      1.6
-    ],
-    "stop_loss": 1.4,
-    "leverage": 10,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 0.0,
-    "source_msg_id": 11330,
-    "forwarded_msg_id": 1039,
-    "opened_at": "2026-05-11T19:40:12.885926+00:00",
-    "closed_at": "",
-    "entry_high": 1.477,
-    "entry_low": 1.44
   }
 }
