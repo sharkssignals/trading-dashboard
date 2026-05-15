@@ -1500,5 +1500,26 @@
     "closed_at": "2026-05-15T02:31:57+00:00",
     "entry_high": 1.477,
     "entry_low": 1.44
+  },
+  "11350": {
+    "coin": "AR",
+    "direction": "LONG",
+    "entry_price": 2.3825000000000003,
+    "take_profits": [
+      2.46,
+      2.52,
+      2.58
+    ],
+    "stop_loss": 2.31,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -30.4302,
+    "source_msg_id": 11350,
+    "forwarded_msg_id": 1044,
+    "opened_at": "2026-05-14T18:58:50.657027+00:00",
+    "closed_at": "2026-05-15T05:33:11+00:00",
+    "entry_high": 2.415,
+    "entry_low": 2.35
   }
 }
