@@ -999,9 +999,10 @@
     ],
     "stop_loss": 0.119,
     "leverage": 20,
-    "status": "SL",
+    "status": "TP2",
     "tps_hit": [
-      1
+      1,
+      2
     ],
     "pnl_pct": 57.8035,
     "source_msg_id": 11220,
