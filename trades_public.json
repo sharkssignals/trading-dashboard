@@ -999,7 +999,7 @@
     ],
     "stop_loss": 0.119,
     "leverage": 20,
-    "status": "TP2",
+    "status": "SL",
     "tps_hit": [
       1,
       2
