@@ -1543,5 +1543,26 @@
     "closed_at": "2026-05-17T05:08:46+00:00",
     "entry_high": 1.51,
     "entry_low": 1.49
+  },
+  "11361": {
+    "coin": "FLOW",
+    "direction": "LONG",
+    "entry_price": 0.037599999999999995,
+    "take_profits": [
+      0.0388,
+      0.0396,
+      0.0405
+    ],
+    "stop_loss": 0.0368,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -21.2766,
+    "source_msg_id": 11361,
+    "forwarded_msg_id": 1056,
+    "opened_at": "2026-05-17T19:54:11.929438+00:00",
+    "closed_at": "2026-05-17T23:41:03+00:00",
+    "entry_high": 0.038,
+    "entry_low": 0.0372
   }
 }
