@@ -1587,5 +1587,28 @@
     "closed_at": "2026-05-17T23:41:03+00:00",
     "entry_high": 0.038,
     "entry_low": 0.0372
+  },
+  "11367": {
+    "coin": "NEAR",
+    "direction": "LONG",
+    "entry_price": 1.5350000000000001,
+    "take_profits": [
+      1.58,
+      1.62,
+      1.66
+    ],
+    "stop_loss": 1.5,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 29.316,
+    "source_msg_id": 11367,
+    "forwarded_msg_id": 1061,
+    "opened_at": "2026-05-18T18:01:28.213699+00:00",
+    "closed_at": "",
+    "entry_high": 1.55,
+    "entry_low": 1.52
   }
 }
