@@ -1636,5 +1636,28 @@
     "closed_at": "2026-05-19T00:09:32+00:00",
     "entry_high": 0.000598,
     "entry_low": 0.000584
+  },
+  "11388": {
+    "coin": "ARKM",
+    "direction": "LONG",
+    "entry_price": 0.12125,
+    "take_profits": [
+      0.1248,
+      0.128,
+      0.131
+    ],
+    "stop_loss": 0.1189,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 18.7755,
+    "source_msg_id": 11388,
+    "forwarded_msg_id": 1079,
+    "opened_at": "2026-05-20T17:24:16.748282+00:00",
+    "closed_at": "",
+    "entry_high": 0.1225,
+    "entry_low": 0.12
   }
 }
