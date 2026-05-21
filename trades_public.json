@@ -1613,6 +1613,27 @@
     "entry_high": 1.55,
     "entry_low": 1.52
   },
+  "11371": {
+    "coin": "SEI",
+    "direction": "SHORT",
+    "entry_price": 0.06035,
+    "take_profits": [
+      0.0585,
+      0.057,
+      0.0555
+    ],
+    "stop_loss": 0.062,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -27.3405,
+    "source_msg_id": 11371,
+    "forwarded_msg_id": 1067,
+    "opened_at": "2026-05-18T18:32:28.463244+00:00",
+    "closed_at": "2026-05-21T01:16:14+00:00",
+    "entry_high": 0.061,
+    "entry_low": 0.0597
+  },
   "11375": {
     "coin": "BOME",
     "direction": "LONG",
