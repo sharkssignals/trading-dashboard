@@ -1680,5 +1680,28 @@
     "closed_at": "2026-05-20T22:00:31+00:00",
     "entry_high": 0.1225,
     "entry_low": 0.12
+  },
+  "11390": {
+    "coin": "APT",
+    "direction": "LONG",
+    "entry_price": 0.951,
+    "take_profits": [
+      0.976,
+      0.996,
+      1.02
+    ],
+    "stop_loss": 0.936,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 25.9735,
+    "source_msg_id": 11390,
+    "forwarded_msg_id": 1082,
+    "opened_at": "2026-05-20T17:32:12.951687+00:00",
+    "closed_at": "",
+    "entry_high": 0.958,
+    "entry_low": 0.944
   }
 }
