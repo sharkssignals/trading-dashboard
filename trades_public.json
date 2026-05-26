@@ -1774,5 +1774,28 @@
     "closed_at": "2026-05-23T14:57:16+00:00",
     "entry_high": 0.0042,
     "entry_low": 0.004135
+  },
+  "11418": {
+    "coin": "DYDX",
+    "direction": "LONG",
+    "entry_price": 0.16175,
+    "take_profits": [
+      0.168,
+      0.1715,
+      0.175
+    ],
+    "stop_loss": 0.154,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11418,
+    "forwarded_msg_id": 1105,
+    "opened_at": "2026-05-26T12:40:18.407346+00:00",
+    "closed_at": "",
+    "entry_high": 0.1645,
+    "entry_low": 0.159
   }
 }
