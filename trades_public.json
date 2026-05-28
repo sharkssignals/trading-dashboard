@@ -1795,10 +1795,10 @@
     "source_msg_id": 11418,
     "forwarded_msg_id": 1105,
     "opened_at": "2026-05-26T12:40:18.407346+00:00",
-    "closed_at": "2026-05-28T09:38:43.325155+00:00",
+    "closed_at": "2026-05-28T09:47:15.009920+00:00",
     "entry_high": 0.1645,
     "entry_low": 0.159,
-    "close_reason": "trail SL after TP (manual: closure msg not auto-caught)"
+    "close_reason": "trail SL after TP (from your Cornix channel, Image 1)"
   },
   "11420": {
     "coin": "AAVE",
