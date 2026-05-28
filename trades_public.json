@@ -1797,8 +1797,7 @@
     "opened_at": "2026-05-26T12:40:18.407346+00:00",
     "closed_at": "2026-05-28T09:47:15.009920+00:00",
     "entry_high": 0.1645,
-    "entry_low": 0.159,
-    "close_reason": "trail SL after TP (from your Cornix channel, Image 1)"
+    "entry_low": 0.159
   },
   "11420": {
     "coin": "AAVE",
