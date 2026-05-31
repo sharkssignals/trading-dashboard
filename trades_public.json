@@ -1820,6 +1820,29 @@
     "entry_high": 87.25,
     "entry_low": 85.9
   },
+  "11428": {
+    "coin": "DOT",
+    "direction": "SHORT",
+    "entry_price": 1.218,
+    "take_profits": [
+      1.17,
+      1.146,
+      1.12
+    ],
+    "stop_loss": 1.295,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11428,
+    "forwarded_msg_id": 1115,
+    "opened_at": "2026-05-28T15:01:00.768548+00:00",
+    "closed_at": null,
+    "entry_high": 1.24,
+    "entry_low": 1.196
+  },
   "11432": {
     "coin": "ENS",
     "direction": "SHORT",
