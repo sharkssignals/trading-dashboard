@@ -1839,7 +1839,7 @@
     "source_msg_id": 11428,
     "forwarded_msg_id": 1115,
     "opened_at": "2026-05-28T15:01:00.768548+00:00",
-    "closed_at": null,
+    "closed_at": "",
     "entry_high": 1.24,
     "entry_low": 1.196
   },
