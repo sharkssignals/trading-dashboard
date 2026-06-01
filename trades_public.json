@@ -1831,11 +1831,12 @@
     ],
     "stop_loss": 1.295,
     "leverage": 10,
-    "status": "TP1",
+    "status": "TP2",
     "tps_hit": [
-      1
+      1,
+      2
     ],
-    "pnl_pct": 33.5903,
+    "pnl_pct": 44.6035,
     "source_msg_id": 11428,
     "forwarded_msg_id": 1115,
     "opened_at": "2026-05-28T15:01:00.768548+00:00",
@@ -1863,5 +1864,28 @@
     "closed_at": "2026-05-30T00:36:40+00:00",
     "entry_high": 5.94,
     "entry_low": 5.727
+  },
+  "11434": {
+    "coin": "TURBO",
+    "direction": "SHORT",
+    "entry_price": 0.0010675,
+    "take_profits": [
+      0.001027,
+      0.001006,
+      0.000986
+    ],
+    "stop_loss": 0.001133,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11434,
+    "forwarded_msg_id": 1124,
+    "opened_at": "2026-05-29T14:04:43.209447+00:00",
+    "closed_at": "",
+    "entry_high": 0.001087,
+    "entry_low": 0.001048
   }
 }
