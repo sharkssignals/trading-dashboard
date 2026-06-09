@@ -1932,5 +1932,28 @@
     "closed_at": "2026-06-07T22:13:28+00:00",
     "entry_high": 0.0304,
     "entry_low": 0.0301
+  },
+  "11466": {
+    "coin": "KAITO",
+    "direction": "SHORT",
+    "entry_price": 0.4565,
+    "take_profits": [
+      0.419,
+      0.39,
+      0.36
+    ],
+    "stop_loss": 0.494,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 73.0088,
+    "source_msg_id": 11466,
+    "forwarded_msg_id": 1138,
+    "opened_at": "2026-06-07T20:18:26.064101+00:00",
+    "closed_at": "",
+    "entry_high": 0.47,
+    "entry_low": 0.443
   }
 }
