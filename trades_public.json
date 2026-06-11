@@ -1978,5 +1978,26 @@
     "closed_at": "2026-06-10T01:21:37+00:00",
     "entry_high": 0.131,
     "entry_low": 0.1285
+  },
+  "11483": {
+    "coin": "BTC",
+    "direction": "LONG",
+    "entry_price": 62850.0,
+    "take_profits": [
+      63600.0,
+      64400.0,
+      65200.0
+    ],
+    "stop_loss": 62510.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -5.4097,
+    "source_msg_id": 11483,
+    "forwarded_msg_id": 1150,
+    "opened_at": "2026-06-11T06:44:06.690684+00:00",
+    "closed_at": "2026-06-11T12:30:44+00:00",
+    "entry_high": 62920.0,
+    "entry_low": 62780.0
   }
 }
