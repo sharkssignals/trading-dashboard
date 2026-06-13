@@ -2020,5 +2020,28 @@
     "closed_at": "2026-06-12T12:32:35.085274+00:00",
     "entry_high": 62920.0,
     "entry_low": 62780.0
+  },
+  "11485": {
+    "coin": "BB",
+    "direction": "LONG",
+    "entry_price": 0.021525,
+    "take_profits": [
+      0.02225,
+      0.0227,
+      0.0234
+    ],
+    "stop_loss": 62510.0,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11485,
+    "forwarded_msg_id": 1162,
+    "opened_at": "2026-06-13T08:16:00.448109+00:00",
+    "closed_at": "",
+    "entry_high": 0.02175,
+    "entry_low": 0.0213
   }
 }
