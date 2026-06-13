@@ -2066,5 +2066,26 @@
     "closed_at": "2026-06-13T19:17:16+00:00",
     "entry_high": 0.943,
     "entry_low": 0.929
+  },
+  "11499": {
+    "coin": "SSV",
+    "direction": "LONG",
+    "entry_price": 2.2824999999999998,
+    "take_profits": [
+      2.35,
+      2.4,
+      2.45
+    ],
+    "stop_loss": 2.22,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -27.3823,
+    "source_msg_id": 11499,
+    "forwarded_msg_id": 1176,
+    "opened_at": "2026-06-13T21:11:14.626412+00:00",
+    "closed_at": "2026-06-13T21:35:50+00:00",
+    "entry_high": 2.3,
+    "entry_low": 2.265
   }
 }
