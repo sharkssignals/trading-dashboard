@@ -2019,7 +2019,6 @@
     "opened_at": "2026-06-12T12:00:06.024031+00:00",
     "closed_at": "2026-06-12T12:32:35.085274+00:00",
     "entry_high": 62920.0,
-    "entry_low": 62780.0,
-    "close_reason": "duplicate of #11483 from catchup loop (pre-scan-id-persist bug); manually closed via Cornix /close at +1.266%"
+    "entry_low": 62780.0
   }
 }
