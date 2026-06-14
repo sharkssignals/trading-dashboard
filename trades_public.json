@@ -2087,5 +2087,26 @@
     "closed_at": "2026-06-13T21:35:50+00:00",
     "entry_high": 2.3,
     "entry_low": 2.265
+  },
+  "11507": {
+    "coin": "XLM",
+    "direction": "SHORT",
+    "entry_price": 0.183075,
+    "take_profits": [
+      0.178,
+      0.1744,
+      0.17085
+    ],
+    "stop_loss": 0.1873,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -23.078,
+    "source_msg_id": 11507,
+    "forwarded_msg_id": 1186,
+    "opened_at": "2026-06-14T18:40:21.567850+00:00",
+    "closed_at": "2026-06-14T21:44:32+00:00",
+    "entry_high": 0.1845,
+    "entry_low": 0.18165
   }
 }
