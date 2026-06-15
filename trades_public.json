@@ -2177,5 +2177,28 @@
     "closed_at": "2026-06-14T21:44:32+00:00",
     "entry_high": 0.1845,
     "entry_low": 0.18165
+  },
+  "11511": {
+    "coin": "LINK",
+    "direction": "LONG",
+    "entry_price": 8.165,
+    "take_profits": [
+      8.405,
+      8.575,
+      8.75
+    ],
+    "stop_loss": 7.98,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 21.2637,
+    "source_msg_id": 11511,
+    "forwarded_msg_id": 1194,
+    "opened_at": "2026-06-15T10:30:10.012136+00:00",
+    "closed_at": "",
+    "entry_high": 8.23,
+    "entry_low": 8.1
   }
 }
