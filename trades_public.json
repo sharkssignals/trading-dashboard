@@ -2200,5 +2200,28 @@
     "closed_at": "",
     "entry_high": 8.23,
     "entry_low": 8.1
+  },
+  "11517": {
+    "coin": "IOTA",
+    "direction": "LONG",
+    "entry_price": 0.04825,
+    "take_profits": [
+      0.049,
+      0.0495,
+      0.0505
+    ],
+    "stop_loss": 0.0475,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 15.544,
+    "source_msg_id": 11517,
+    "forwarded_msg_id": 1202,
+    "opened_at": "2026-06-15T11:28:17.015804+00:00",
+    "closed_at": "",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
