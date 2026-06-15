@@ -2088,6 +2088,29 @@
     "entry_high": 2.3,
     "entry_low": 2.265
   },
+  "11502": {
+    "coin": "VIRTUAL",
+    "direction": "LONG",
+    "entry_price": 0.63365,
+    "take_profits": [
+      0.653,
+      0.666,
+      0.68
+    ],
+    "stop_loss": 0.596,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 30.5374,
+    "source_msg_id": 11502,
+    "forwarded_msg_id": 1180,
+    "opened_at": "2026-06-13T21:36:27.161758+00:00",
+    "closed_at": "",
+    "entry_high": 0.6403,
+    "entry_low": 0.627
+  },
   "11505": {
     "coin": "SNX",
     "direction": "SHORT",
