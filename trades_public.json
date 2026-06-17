@@ -2267,5 +2267,28 @@
     "closed_at": "2026-06-15T11:56:21+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "11531": {
+    "coin": "MANTA",
+    "direction": "SHORT",
+    "entry_price": 0.07896,
+    "take_profits": [
+      0.0764,
+      0.0748,
+      0.0732
+    ],
+    "stop_loss": 0.0817,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 27.9898,
+    "source_msg_id": 11531,
+    "forwarded_msg_id": 1211,
+    "opened_at": "2026-06-17T11:32:32.531761+00:00",
+    "closed_at": "",
+    "entry_high": 0.08,
+    "entry_low": 0.07792
   }
 }
