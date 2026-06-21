@@ -2336,6 +2336,29 @@
     "entry_high": 0.0652,
     "entry_low": 0.06416
   },
+  "11549": {
+    "coin": "JASMY",
+    "direction": "SHORT",
+    "entry_price": 0.0046785,
+    "take_profits": [
+      0.004545,
+      0.00445,
+      0.00436
+    ],
+    "stop_loss": 0.00479,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 28.5348,
+    "source_msg_id": 11549,
+    "forwarded_msg_id": 1231,
+    "opened_at": "2026-06-20T14:06:36.289471+00:00",
+    "closed_at": "",
+    "entry_high": 0.004715,
+    "entry_low": 0.004642
+  },
   "11553": {
     "coin": "TIA",
     "direction": "SHORT",
