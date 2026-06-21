@@ -2359,6 +2359,29 @@
     "entry_high": 0.004715,
     "entry_low": 0.004642
   },
+  "11550": {
+    "coin": "ONDO",
+    "direction": "SHORT",
+    "entry_price": 0.34099999999999997,
+    "take_profits": [
+      0.33,
+      0.322,
+      0.315
+    ],
+    "stop_loss": 0.349,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 32.2581,
+    "source_msg_id": 11550,
+    "forwarded_msg_id": 1236,
+    "opened_at": "2026-06-20T19:09:30.945127+00:00",
+    "closed_at": "",
+    "entry_high": 0.345,
+    "entry_low": 0.337
+  },
   "11553": {
     "coin": "TIA",
     "direction": "SHORT",
