@@ -2336,6 +2336,29 @@
     "entry_high": 0.0652,
     "entry_low": 0.06416
   },
+  "11547": {
+    "coin": "BLUR",
+    "direction": "SHORT",
+    "entry_price": 0.016050000000000002,
+    "take_profits": [
+      0.01525,
+      0.0148,
+      0.01435
+    ],
+    "stop_loss": 0.0169,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11547,
+    "forwarded_msg_id": 1229,
+    "opened_at": "2026-06-20T13:00:05.962990+00:00",
+    "closed_at": "",
+    "entry_high": 0.01635,
+    "entry_low": 0.01575
+  },
   "11549": {
     "coin": "JASMY",
     "direction": "SHORT",
