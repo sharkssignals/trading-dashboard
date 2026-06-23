@@ -2088,30 +2088,6 @@
     "entry_high": 2.3,
     "entry_low": 2.265
   },
-  "11500": {
-    "coin": "VIRTUAL",
-    "direction": "LONG",
-    "entry_price": 0.53365,
-    "take_profits": [
-      0.653,
-      0.666,
-      0.68
-    ],
-    "stop_loss": 0.596,
-    "leverage": 10,
-    "status": "SL",
-    "tps_hit": [
-      2,
-      1
-    ],
-    "pnl_pct": 36.6922,
-    "source_msg_id": 11500,
-    "forwarded_msg_id": 1178,
-    "opened_at": "2026-06-13T21:31:23.385152+00:00",
-    "closed_at": "2026-06-15T06:31:47+00:00",
-    "entry_high": 0.627,
-    "entry_low": 0.4403
-  },
   "11502": {
     "coin": "VIRTUAL",
     "direction": "LONG",
@@ -2201,27 +2177,6 @@
     "closed_at": "2026-06-15T19:19:34+00:00",
     "entry_high": 8.23,
     "entry_low": 8.1
-  },
-  "11512": {
-    "coin": "AR",
-    "direction": "LONG",
-    "entry_price": 2.064,
-    "take_profits": [
-      2.15,
-      2.195,
-      2.24
-    ],
-    "stop_loss": 2.02,
-    "leverage": 10,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -21.3178,
-    "source_msg_id": 11512,
-    "forwarded_msg_id": 1196,
-    "opened_at": "2026-06-15T10:30:12.205717+00:00",
-    "closed_at": "2026-06-16T02:28:56+00:00",
-    "entry_high": 2.108,
-    "entry_low": 2.02
   },
   "11514": {
     "coin": "AR",
