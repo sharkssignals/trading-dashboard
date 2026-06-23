@@ -2402,5 +2402,28 @@
     "closed_at": "2026-06-23T06:08:48+00:00",
     "entry_high": 2.29,
     "entry_low": 2.25
+  },
+  "11564": {
+    "coin": "AVA",
+    "direction": "SHORT",
+    "entry_price": 0.1846,
+    "take_profits": [
+      0.179,
+      0.1755,
+      0.172
+    ],
+    "stop_loss": 0.1905,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 20.2518,
+    "source_msg_id": 11564,
+    "forwarded_msg_id": 1253,
+    "opened_at": "2026-06-23T07:17:44.640437+00:00",
+    "closed_at": "",
+    "entry_high": 0.1865,
+    "entry_low": 0.1827
   }
 }
