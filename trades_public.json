@@ -2326,15 +2326,17 @@
     "status": "CLOSED",
     "tps_hit": [
       1,
-      2
+      2,
+      3
     ],
-    "pnl_pct": 43.1746,
+    "pnl_pct": 51.746,
     "source_msg_id": 11547,
     "forwarded_msg_id": 1229,
     "opened_at": "2026-06-20T13:00:05.962990+00:00",
     "closed_at": "2026-06-23T08:26:00.343334+00:00",
     "entry_high": 0.01635,
-    "entry_low": 0.01575
+    "entry_low": 0.01575,
+    "close_reason": "backfill: cornix_listener parsed +Profit% from your channel but find_trade rejected (trade already CLOSED by bot.py); fix shipped 2026-06-25"
   },
   "11549": {
     "coin": "JASMY",
@@ -2482,14 +2484,16 @@
     "status": "CLOSED",
     "tps_hit": [
       1,
-      2
+      2,
+      3
     ],
-    "pnl_pct": 28.9144,
+    "pnl_pct": 34.6447,
     "source_msg_id": 11578,
     "forwarded_msg_id": 1263,
     "opened_at": "2026-06-24T10:47:45.497436+00:00",
     "closed_at": "2026-06-24T16:56:49.857133+00:00",
     "entry_high": 0.008505,
-    "entry_low": 0.00837
+    "entry_low": 0.00837,
+    "close_reason": "backfill: cornix_listener parsed +Profit% from your channel but find_trade rejected (trade already CLOSED by bot.py); fix shipped 2026-06-25"
   }
 }
