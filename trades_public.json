@@ -2493,5 +2493,28 @@
     "closed_at": "2026-06-24T16:56:49.857133+00:00",
     "entry_high": 0.008505,
     "entry_low": 0.00837
+  },
+  "11583": {
+    "coin": "VET",
+    "direction": "SHORT",
+    "entry_price": 0.0044865,
+    "take_profits": [
+      0.004345,
+      0.00426,
+      0.00417
+    ],
+    "stop_loss": 0.00463,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 20.9554,
+    "source_msg_id": 11583,
+    "forwarded_msg_id": 1270,
+    "opened_at": "2026-06-25T18:15:09.549877+00:00",
+    "closed_at": "",
+    "entry_high": 0.004535,
+    "entry_low": 0.004438
   }
 }
