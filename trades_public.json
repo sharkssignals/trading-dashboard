@@ -2574,11 +2574,11 @@
     "leverage": 10,
     "status": "CANCELLED",
     "tps_hit": [],
-    "pnl_pct": -25.5554,
+    "pnl_pct": 0.0,
     "source_msg_id": 11598,
     "forwarded_msg_id": 1283,
     "opened_at": "2026-06-29T14:09:51.472707+00:00",
-    "closed_at": "2026-06-29T14:12:49+00:00",
+    "closed_at": "2026-06-29T14:15:57.624259+00:00",
     "entry_high": 0.0301,
     "entry_low": 0.02977
   }
