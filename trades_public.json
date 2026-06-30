@@ -2552,14 +2552,13 @@
     "status": "CLOSED",
     "tps_hit": [
       1,
-      2,
-      3
+      2
     ],
-    "pnl_pct": 36.5252,
+    "pnl_pct": 30.6022,
     "source_msg_id": 11594,
     "forwarded_msg_id": 1279,
     "opened_at": "2026-06-27T19:18:55.323749+00:00",
-    "closed_at": "2026-06-30T20:32:07+00:00",
+    "closed_at": "2026-06-30T20:35:57.426943+00:00",
     "entry_high": 0.0513,
     "entry_low": 0.05052
   },
