@@ -2626,5 +2626,26 @@
     "closed_at": "2026-07-01T03:06:58+00:00",
     "entry_high": 0.0284,
     "entry_low": 0.02794
+  },
+  "11609": {
+    "coin": "1000CAT",
+    "direction": "SHORT",
+    "entry_price": 0.0012675,
+    "take_profits": [
+      0.00123,
+      0.001205,
+      0.00118
+    ],
+    "stop_loss": 0.00129,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -17.7515,
+    "source_msg_id": 11609,
+    "forwarded_msg_id": 1293,
+    "opened_at": "2026-06-30T13:33:29.434203+00:00",
+    "closed_at": "2026-07-01T14:15:28+00:00",
+    "entry_high": 0.001275,
+    "entry_low": 0.00126
   }
 }
