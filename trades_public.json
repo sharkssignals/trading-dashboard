@@ -2647,5 +2647,28 @@
     "closed_at": "2026-07-01T14:15:28+00:00",
     "entry_high": 0.001275,
     "entry_low": 0.00126
+  },
+  "11616": {
+    "coin": "TRUMP",
+    "direction": "LONG",
+    "entry_price": 1.7405,
+    "take_profits": [
+      1.79,
+      1.825,
+      1.865
+    ],
+    "stop_loss": 1.705,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 20.5245,
+    "source_msg_id": 11616,
+    "forwarded_msg_id": 1301,
+    "opened_at": "2026-07-03T12:00:05.433040+00:00",
+    "closed_at": "",
+    "entry_high": 1.754,
+    "entry_low": 1.727
   }
 }
