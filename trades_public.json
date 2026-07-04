@@ -2670,5 +2670,26 @@
     "closed_at": "",
     "entry_high": 1.754,
     "entry_low": 1.727
+  },
+  "11622": {
+    "coin": "LUNA2",
+    "direction": "LONG",
+    "entry_price": 0.049049999999999996,
+    "take_profits": [
+      0.0509,
+      0.052,
+      0.0531
+    ],
+    "stop_loss": 0.0483,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11622,
+    "forwarded_msg_id": 1305,
+    "opened_at": "2026-07-03T18:15:10.102695+00:00",
+    "closed_at": "2026-07-04T04:00:26.610821+00:00",
+    "entry_high": 0.0491,
+    "entry_low": 0.049
   }
 }
