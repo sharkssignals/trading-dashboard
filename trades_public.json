@@ -2691,5 +2691,26 @@
     "closed_at": "2026-07-04T04:00:26.610821+00:00",
     "entry_high": 0.0491,
     "entry_low": 0.049
+  },
+  "11624": {
+    "coin": "HIVE",
+    "direction": "LONG",
+    "entry_price": 0.05133,
+    "take_profits": [
+      0.0527,
+      0.0538,
+      0.0549
+    ],
+    "stop_loss": 0.0503,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11624,
+    "forwarded_msg_id": 1308,
+    "opened_at": "2026-07-04T08:42:06.868439+00:00",
+    "closed_at": "2026-07-04T09:21:14.476176+00:00",
+    "entry_high": 0.05166,
+    "entry_low": 0.051
   }
 }
