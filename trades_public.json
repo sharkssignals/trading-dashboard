@@ -2797,5 +2797,28 @@
     "closed_at": "2026-07-06T17:32:11+00:00",
     "entry_high": 0.00277,
     "entry_low": 0.00269
+  },
+  "11646": {
+    "coin": "LDO",
+    "direction": "LONG",
+    "entry_price": 0.279,
+    "take_profits": [
+      0.29,
+      0.298,
+      0.306
+    ],
+    "stop_loss": 0.27,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 39.4265,
+    "source_msg_id": 11646,
+    "forwarded_msg_id": 1330,
+    "opened_at": "2026-07-06T21:11:07.851132+00:00",
+    "closed_at": "",
+    "entry_high": 0.283,
+    "entry_low": 0.275
   }
 }
