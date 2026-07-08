@@ -2944,14 +2944,13 @@
     "status": "CLOSED",
     "tps_hit": [
       1,
-      2,
-      3
+      2
     ],
-    "pnl_pct": 34.2904,
+    "pnl_pct": 28.3839,
     "source_msg_id": 11660,
     "forwarded_msg_id": 1352,
     "opened_at": "2026-07-07T20:15:56.345814+00:00",
-    "closed_at": "2026-07-08T09:15:01+00:00",
+    "closed_at": "2026-07-08T09:15:07.281406+00:00",
     "entry_high": 0.619,
     "entry_low": 0.607
   }
