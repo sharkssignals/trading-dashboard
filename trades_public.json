@@ -2886,6 +2886,29 @@
     "entry_high": 0.01777,
     "entry_low": 0.0175
   },
+  "11658": {
+    "coin": "POPCAT",
+    "direction": "SHORT",
+    "entry_price": 0.048,
+    "take_profits": [
+      0.0465,
+      0.0455,
+      0.0445
+    ],
+    "stop_loss": 0.049,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 21.9106,
+    "source_msg_id": 11658,
+    "forwarded_msg_id": 1349,
+    "opened_at": "2026-07-07T19:15:34.194625+00:00",
+    "closed_at": "",
+    "entry_high": 0.0485,
+    "entry_low": 0.0475
+  },
   "11660": {
     "coin": "AKT",
     "direction": "SHORT",
