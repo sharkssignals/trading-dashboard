@@ -2821,6 +2821,27 @@
     "entry_high": 0.283,
     "entry_low": 0.275
   },
+  "11648": {
+    "coin": "BTC",
+    "direction": "LONG",
+    "entry_price": 63725.0,
+    "take_profits": [
+      65707.0,
+      67106.0,
+      68800.0
+    ],
+    "stop_loss": 62000.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -27.0694,
+    "source_msg_id": 11648,
+    "forwarded_msg_id": 1332,
+    "opened_at": "2026-07-06T21:15:41.581108+00:00",
+    "closed_at": "2026-07-08T08:31:56+00:00",
+    "entry_high": 64350.0,
+    "entry_low": 63100.0
+  },
   "11651": {
     "coin": "MANTA",
     "direction": "LONG",
