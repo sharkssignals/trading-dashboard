@@ -2953,5 +2953,26 @@
     "closed_at": "2026-07-08T09:15:07.281406+00:00",
     "entry_high": 0.619,
     "entry_low": 0.607
+  },
+  "11670": {
+    "coin": "TIA",
+    "direction": "LONG",
+    "entry_price": 0.41825,
+    "take_profits": [
+      0.432,
+      0.44,
+      0.449
+    ],
+    "stop_loss": 0.4025,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -37.6569,
+    "source_msg_id": 11670,
+    "forwarded_msg_id": 1361,
+    "opened_at": "2026-07-09T17:11:16.797631+00:00",
+    "closed_at": "2026-07-10T14:21:55+00:00",
+    "entry_high": 0.4235,
+    "entry_low": 0.413
   }
 }
