@@ -2974,5 +2974,26 @@
     "closed_at": "2026-07-10T14:21:55+00:00",
     "entry_high": 0.4235,
     "entry_low": 0.413
+  },
+  "11681": {
+    "coin": "QNT",
+    "direction": "LONG",
+    "entry_price": 68.185,
+    "take_profits": [
+      70.1,
+      71.5,
+      72.95
+    ],
+    "stop_loss": 66.6,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -23.2456,
+    "source_msg_id": 11681,
+    "forwarded_msg_id": 1365,
+    "opened_at": "2026-07-10T17:37:06.503039+00:00",
+    "closed_at": "2026-07-11T15:42:43+00:00",
+    "entry_high": 68.67,
+    "entry_low": 67.7
   }
 }
