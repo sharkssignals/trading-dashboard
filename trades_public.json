@@ -3016,5 +3016,28 @@
     "closed_at": "2026-07-12T00:00:49+00:00",
     "entry_high": 1.011,
     "entry_low": 1.005
+  },
+  "11685": {
+    "coin": "ZRO",
+    "direction": "SHORT",
+    "entry_price": 0.8875,
+    "take_profits": [
+      0.866,
+      0.849,
+      0.832
+    ],
+    "stop_loss": 0.91,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 15.9091,
+    "source_msg_id": 11685,
+    "forwarded_msg_id": 1373,
+    "opened_at": "2026-07-12T13:55:47.724952+00:00",
+    "closed_at": "",
+    "entry_high": 0.895,
+    "entry_low": 0.88
   }
 }
