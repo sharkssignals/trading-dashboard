@@ -3083,6 +3083,29 @@
     "entry_high": 0.07055,
     "entry_low": 0.06984
   },
+  "11694": {
+    "coin": "COTI",
+    "direction": "SHORT",
+    "entry_price": 0.00778,
+    "take_profits": [
+      0.00755,
+      0.0074,
+      0.00725
+    ],
+    "stop_loss": 0.00798,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11694,
+    "forwarded_msg_id": 1382,
+    "opened_at": "2026-07-14T07:20:32.255213+00:00",
+    "closed_at": "",
+    "entry_high": 0.00785,
+    "entry_low": 0.00771
+  },
   "11697": {
     "coin": "LINK",
     "direction": "LONG",
