@@ -3151,5 +3151,26 @@
     "closed_at": "",
     "entry_high": 230.7,
     "entry_low": 227.6
+  },
+  "11707": {
+    "coin": "ORDI",
+    "direction": "LONG",
+    "entry_price": 3.6665,
+    "take_profits": [
+      3.765,
+      3.84,
+      3.92
+    ],
+    "stop_loss": 3.58,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -23.592,
+    "source_msg_id": 11707,
+    "forwarded_msg_id": 1397,
+    "opened_at": "2026-07-16T05:06:19.889985+00:00",
+    "closed_at": "2026-07-16T08:11:26+00:00",
+    "entry_high": 3.695,
+    "entry_low": 3.638
   }
 }
