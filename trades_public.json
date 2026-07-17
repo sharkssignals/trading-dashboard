@@ -3173,5 +3173,26 @@
     "closed_at": "2026-07-16T08:11:26+00:00",
     "entry_high": 3.695,
     "entry_low": 3.638
+  },
+  "11711": {
+    "coin": "IOST",
+    "direction": "SHORT",
+    "entry_price": 0.00066075,
+    "take_profits": [
+      0.0006455,
+      0.0006325,
+      0.00062
+    ],
+    "stop_loss": 0.000676,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -23.0798,
+    "source_msg_id": 11711,
+    "forwarded_msg_id": 1405,
+    "opened_at": "2026-07-16T18:40:18.606520+00:00",
+    "closed_at": "2026-07-17T08:12:22+00:00",
+    "entry_high": 0.0006655,
+    "entry_low": 0.000656
   }
 }
