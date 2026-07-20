@@ -3261,5 +3261,28 @@
     "closed_at": "",
     "entry_high": 0.0296,
     "entry_low": 0.0291
+  },
+  "11732": {
+    "coin": "AGLD",
+    "direction": "SHORT",
+    "entry_price": 0.151,
+    "take_profits": [
+      0.1465,
+      0.143,
+      0.14
+    ],
+    "stop_loss": 0.155,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 29.8013,
+    "source_msg_id": 11732,
+    "forwarded_msg_id": 1421,
+    "opened_at": "2026-07-19T14:00:49.266774+00:00",
+    "closed_at": "",
+    "entry_high": 0.1525,
+    "entry_low": 0.1495
   }
 }
