@@ -3215,5 +3215,51 @@
     "closed_at": "2026-07-17T20:54:22+00:00",
     "entry_high": 1.3923,
     "entry_low": 1.3793
+  },
+  "11716": {
+    "coin": "METIS",
+    "direction": "SHORT",
+    "entry_price": 2.7225,
+    "take_profits": [
+      2.655,
+      2.6,
+      2.545
+    ],
+    "stop_loss": 2.795,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 22.0994,
+    "source_msg_id": 11716,
+    "forwarded_msg_id": 1413,
+    "opened_at": "2026-07-17T13:15:31.122909+00:00",
+    "closed_at": "",
+    "entry_high": 2.745,
+    "entry_low": 2.7
+  },
+  "11730": {
+    "coin": "EDU",
+    "direction": "SHORT",
+    "entry_price": 0.02935,
+    "take_profits": [
+      0.0285,
+      0.028,
+      0.0274
+    ],
+    "stop_loss": 0.0302,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 23.4152,
+    "source_msg_id": 11730,
+    "forwarded_msg_id": 1418,
+    "opened_at": "2026-07-19T13:52:40.655290+00:00",
+    "closed_at": "",
+    "entry_high": 0.0296,
+    "entry_low": 0.0291
   }
 }
