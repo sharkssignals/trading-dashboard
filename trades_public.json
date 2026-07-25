@@ -3370,5 +3370,28 @@
     "closed_at": "2026-07-24T18:16:16+00:00",
     "entry_high": 0.217,
     "entry_low": 0.2145
+  },
+  "11768": {
+    "coin": "LQTY",
+    "direction": "LONG",
+    "entry_price": 0.179,
+    "take_profits": [
+      0.185,
+      0.189,
+      0.193
+    ],
+    "stop_loss": 0.174,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 22.0994,
+    "source_msg_id": 11768,
+    "forwarded_msg_id": 1456,
+    "opened_at": "2026-07-25T20:01:59.738153+00:00",
+    "closed_at": "",
+    "entry_high": 0.181,
+    "entry_low": 0.177
   }
 }
