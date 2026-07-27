@@ -3371,6 +3371,29 @@
     "entry_high": 0.217,
     "entry_low": 0.2145
   },
+  "11755": {
+    "coin": "ZEN",
+    "direction": "SHORT",
+    "entry_price": 4.055,
+    "take_profits": [
+      3.94,
+      3.86,
+      3.78
+    ],
+    "stop_loss": 4.17,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 28.36,
+    "source_msg_id": 11755,
+    "forwarded_msg_id": 1446,
+    "opened_at": "2026-07-24T13:30:37.767816+00:00",
+    "closed_at": "",
+    "entry_high": 4.09,
+    "entry_low": 4.02
+  },
   "11765": {
     "coin": "ACH",
     "direction": "SHORT",
