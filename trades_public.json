@@ -3484,5 +3484,28 @@
     "closed_at": "2026-07-27T15:09:51+00:00",
     "entry_high": 6.71,
     "entry_low": 6.6
+  },
+  "11783": {
+    "coin": "JUP",
+    "direction": "LONG",
+    "entry_price": 0.1935,
+    "take_profits": [
+      0.199,
+      0.203,
+      0.208
+    ],
+    "stop_loss": 0.1885,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11783,
+    "forwarded_msg_id": 1472,
+    "opened_at": "2026-07-29T12:45:21.153184+00:00",
+    "closed_at": "",
+    "entry_high": 0.195,
+    "entry_low": 0.192
   }
 }
