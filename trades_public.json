@@ -3507,5 +3507,26 @@
     "closed_at": "2026-07-31T02:25:19+00:00",
     "entry_high": 0.195,
     "entry_low": 0.192
+  },
+  "11800": {
+    "coin": "ROSE",
+    "direction": "SHORT",
+    "entry_price": 0.005131999999999999,
+    "take_profits": [
+      0.00502,
+      0.00492,
+      0.00482
+    ],
+    "stop_loss": 0.00525,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -22.993,
+    "source_msg_id": 11800,
+    "forwarded_msg_id": 1477,
+    "opened_at": "2026-07-31T12:48:35.621531+00:00",
+    "closed_at": "2026-08-01T01:19:03+00:00",
+    "entry_high": 0.00515,
+    "entry_low": 0.005114
   }
 }
