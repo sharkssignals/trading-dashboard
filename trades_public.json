@@ -3549,5 +3549,26 @@
     "closed_at": "2026-08-01T12:55:18+00:00",
     "entry_high": 0.764,
     "entry_low": 0.757
+  },
+  "11804": {
+    "coin": "CHZ",
+    "direction": "LONG",
+    "entry_price": 0.0129,
+    "take_profits": [
+      0.01325,
+      0.01355,
+      0.01385
+    ],
+    "stop_loss": 0.01265,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -19.3798,
+    "source_msg_id": 11804,
+    "forwarded_msg_id": 1483,
+    "opened_at": "2026-07-31T14:25:03.893894+00:00",
+    "closed_at": "2026-08-01T18:32:34+00:00",
+    "entry_high": 0.013,
+    "entry_low": 0.0128
   }
 }
