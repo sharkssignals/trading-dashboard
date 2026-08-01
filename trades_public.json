@@ -3528,5 +3528,26 @@
     "closed_at": "2026-08-01T01:19:03+00:00",
     "entry_high": 0.00515,
     "entry_low": 0.005114
+  },
+  "11803": {
+    "coin": "DOT",
+    "direction": "SHORT",
+    "entry_price": 0.7605,
+    "take_profits": [
+      0.742,
+      0.727,
+      0.712
+    ],
+    "stop_loss": 0.77,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -12.4918,
+    "source_msg_id": 11803,
+    "forwarded_msg_id": 1480,
+    "opened_at": "2026-07-31T13:50:45.000748+00:00",
+    "closed_at": "2026-08-01T12:55:18+00:00",
+    "entry_high": 0.764,
+    "entry_low": 0.757
   }
 }
