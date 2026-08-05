@@ -3633,5 +3633,28 @@
     "closed_at": "2026-08-04T00:41:12+00:00",
     "entry_high": 74.1,
     "entry_low": 73.6
+  },
+  "11830": {
+    "coin": "NEIRO",
+    "direction": "LONG",
+    "entry_price": 6.290000000000001e-05,
+    "take_profits": [
+      6.44e-05,
+      6.54e-05,
+      6.65e-05
+    ],
+    "stop_loss": 6.22e-05,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 18.9873,
+    "source_msg_id": 11830,
+    "forwarded_msg_id": 1510,
+    "opened_at": "2026-08-05T20:04:10.736573+00:00",
+    "closed_at": "",
+    "entry_high": 6.32e-05,
+    "entry_low": 6.26e-05
   }
 }
