@@ -3680,6 +3680,27 @@
     "entry_high": 6.32e-05,
     "entry_low": 6.26e-05
   },
+  "11834": {
+    "coin": "PENGU",
+    "direction": "SHORT",
+    "entry_price": 0.00605,
+    "take_profits": [
+      0.00588,
+      0.00577,
+      0.005655
+    ],
+    "stop_loss": 0.0062,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -24.7934,
+    "source_msg_id": 11834,
+    "forwarded_msg_id": 1516,
+    "opened_at": "2026-08-06T20:45:53.516940+00:00",
+    "closed_at": "2026-08-08T04:27:17+00:00",
+    "entry_high": 0.0061,
+    "entry_low": 0.006
+  },
   "11836": {
     "coin": "1000CAT",
     "direction": "LONG",
