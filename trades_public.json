@@ -3807,11 +3807,11 @@
     "leverage": 10,
     "status": "CANCELLED",
     "tps_hit": [],
-    "pnl_pct": -21.9503,
+    "pnl_pct": 0.0,
     "source_msg_id": 11859,
     "forwarded_msg_id": 1545,
     "opened_at": "2026-08-10T18:15:28.981255+00:00",
-    "closed_at": "2026-08-10T18:36:44+00:00",
+    "closed_at": "2026-08-10T18:40:21.285462+00:00",
     "entry_high": 0.0279,
     "entry_low": 0.02768
   }
