@@ -3770,5 +3770,28 @@
     "closed_at": "2026-08-10T00:44:09+00:00",
     "entry_high": 8.33,
     "entry_low": 8.29
+  },
+  "11855": {
+    "coin": "SANTOS",
+    "direction": "LONG",
+    "entry_price": 0.48815,
+    "take_profits": [
+      0.501,
+      0.511,
+      0.5215
+    ],
+    "stop_loss": 0.477,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 26.3239,
+    "source_msg_id": 11855,
+    "forwarded_msg_id": 1536,
+    "opened_at": "2026-08-09T18:25:12.937933+00:00",
+    "closed_at": "",
+    "entry_high": 0.4913,
+    "entry_low": 0.485
   }
 }
