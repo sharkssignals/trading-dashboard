@@ -3898,5 +3898,26 @@
     "closed_at": "2026-08-12T02:50:01+00:00",
     "entry_high": 0.10515,
     "entry_low": 0.10365
+  },
+  "11867": {
+    "coin": "DOGE",
+    "direction": "LONG",
+    "entry_price": 0.070775,
+    "take_profits": [
+      0.074,
+      0.0765,
+      0.08
+    ],
+    "stop_loss": 0.069,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -25.0795,
+    "source_msg_id": 11867,
+    "forwarded_msg_id": 1558,
+    "opened_at": "2026-08-12T06:59:05.586107+00:00",
+    "closed_at": "2026-08-12T22:01:32+00:00",
+    "entry_high": 0.07155,
+    "entry_low": 0.07
   }
 }
