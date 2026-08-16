@@ -4005,5 +4005,28 @@
     "closed_at": "2026-08-16T21:05:18+00:00",
     "entry_high": 0.1725,
     "entry_low": 0.1695
+  },
+  "11890": {
+    "coin": "BRETT",
+    "direction": "SHORT",
+    "entry_price": 0.0037949999999999998,
+    "take_profits": [
+      0.003705,
+      0.003624,
+      0.003544
+    ],
+    "stop_loss": 0.00386,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 17.2414,
+    "source_msg_id": 11890,
+    "forwarded_msg_id": 1579,
+    "opened_at": "2026-08-16T21:11:07.674483+00:00",
+    "closed_at": "",
+    "entry_high": 0.00382,
+    "entry_low": 0.00377
   }
 }
