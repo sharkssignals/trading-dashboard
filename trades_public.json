@@ -4040,16 +4040,17 @@
     ],
     "stop_loss": 0.00167,
     "leverage": 10,
-    "status": "TP2",
+    "status": "CLOSED",
     "tps_hit": [
       1,
-      2
+      2,
+      3
     ],
-    "pnl_pct": 34.7619,
+    "pnl_pct": 39.449,
     "source_msg_id": 11892,
     "forwarded_msg_id": 1584,
     "opened_at": "2026-08-17T14:36:24.022699+00:00",
-    "closed_at": "",
+    "closed_at": "2026-08-18T03:03:52+00:00",
     "entry_high": 0.00165,
     "entry_low": 0.001625
   }
