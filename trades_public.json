@@ -4069,12 +4069,35 @@
     "tps_hit": [
       1
     ],
-    "pnl_pct": 0.0,
+    "pnl_pct": 32.7318,
     "source_msg_id": 11895,
     "forwarded_msg_id": 1587,
     "opened_at": "2026-08-17T19:47:51.946444+00:00",
     "closed_at": "",
     "entry_high": 87.93,
     "entry_low": 86.7
+  },
+  "11900": {
+    "coin": "ETH",
+    "direction": "LONG",
+    "entry_price": 1907.5,
+    "take_profits": [
+      1960.0,
+      2000.0,
+      2050.0
+    ],
+    "stop_loss": 1880.0,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11900,
+    "forwarded_msg_id": 1593,
+    "opened_at": "2026-08-18T19:16:55.057728+00:00",
+    "closed_at": "",
+    "entry_high": 1915.0,
+    "entry_low": 1900.0
   }
 }
