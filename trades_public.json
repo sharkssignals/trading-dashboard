@@ -4053,5 +4053,28 @@
     "closed_at": "2026-08-18T03:03:52+00:00",
     "entry_high": 0.00165,
     "entry_low": 0.001625
+  },
+  "11895": {
+    "coin": "AAVE",
+    "direction": "LONG",
+    "entry_price": 87.315,
+    "take_profits": [
+      90.3,
+      92.5,
+      95.0
+    ],
+    "stop_loss": 85.7,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 11895,
+    "forwarded_msg_id": 1587,
+    "opened_at": "2026-08-17T19:47:51.946444+00:00",
+    "closed_at": "",
+    "entry_high": 87.93,
+    "entry_low": 86.7
   }
 }
