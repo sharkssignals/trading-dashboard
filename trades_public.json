@@ -4149,5 +4149,28 @@
     "closed_at": "2026-08-19T15:50:48+00:00",
     "entry_high": 205.25,
     "entry_low": 204.4
+  },
+  "11924": {
+    "coin": "BNB",
+    "direction": "LONG",
+    "entry_price": 631.3,
+    "take_profits": [
+      680.0,
+      700.0,
+      720.0
+    ],
+    "stop_loss": 600.0,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 58.2011,
+    "source_msg_id": 11924,
+    "forwarded_msg_id": 1613,
+    "opened_at": "2026-08-20T08:56:06.399044+00:00",
+    "closed_at": "",
+    "entry_high": 642.6,
+    "entry_low": 620.0
   }
 }
