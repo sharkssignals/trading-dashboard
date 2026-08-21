@@ -4221,6 +4221,29 @@
     "entry_high": 1.66,
     "entry_low": 1.64
   },
+  "11935": {
+    "coin": "SUN",
+    "direction": "LONG",
+    "entry_price": 0.017474999999999997,
+    "take_profits": [
+      0.0178,
+      0.018,
+      0.0182
+    ],
+    "stop_loss": 0.0173,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 14.245,
+    "source_msg_id": 11935,
+    "forwarded_msg_id": 1624,
+    "opened_at": "2026-08-21T10:08:46.161686+00:00",
+    "closed_at": "",
+    "entry_high": 0.01755,
+    "entry_low": 0.0174
+  },
   "11941": {
     "coin": "XMR",
     "direction": "SHORT",
