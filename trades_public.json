@@ -4187,13 +4187,14 @@
     "status": "CLOSED",
     "tps_hit": [
       1,
-      2
+      2,
+      3
     ],
     "pnl_pct": 70.2194,
     "source_msg_id": 11927,
     "forwarded_msg_id": 1616,
     "opened_at": "2026-08-20T09:06:13.954515+00:00",
-    "closed_at": "2026-08-22T01:11:43.864383+00:00",
+    "closed_at": "2026-08-22T01:11:42+00:00",
     "entry_high": 0.1068,
     "entry_low": 0.104
   },
