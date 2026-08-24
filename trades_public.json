@@ -4290,5 +4290,26 @@
     "closed_at": "",
     "entry_high": 0.0154,
     "entry_low": 0.0145
+  },
+  "11955": {
+    "coin": "GOAT",
+    "direction": "LONG",
+    "entry_price": 0.015925,
+    "take_profits": [
+      0.0164,
+      0.0168,
+      0.0172
+    ],
+    "stop_loss": 0.0156,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -20.4082,
+    "source_msg_id": 11955,
+    "forwarded_msg_id": 1646,
+    "opened_at": "2026-08-24T08:10:53.069233+00:00",
+    "closed_at": "2026-08-24T09:57:17+00:00",
+    "entry_high": 0.01605,
+    "entry_low": 0.0158
   }
 }
