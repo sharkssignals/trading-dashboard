@@ -4312,5 +4312,28 @@
     "closed_at": "2026-08-24T09:57:17+00:00",
     "entry_high": 0.01605,
     "entry_low": 0.0158
+  },
+  "11958": {
+    "coin": "ARC",
+    "direction": "LONG",
+    "entry_price": 0.07192,
+    "take_profits": [
+      0.076,
+      0.078,
+      0.08
+    ],
+    "stop_loss": 0.06923,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 41.8095,
+    "source_msg_id": 11958,
+    "forwarded_msg_id": 1653,
+    "opened_at": "2026-08-25T07:59:32.244970+00:00",
+    "closed_at": "",
+    "entry_high": 0.07295,
+    "entry_low": 0.07089
   }
 }
