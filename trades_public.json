@@ -4382,5 +4382,28 @@
     "closed_at": "",
     "entry_high": 0.595,
     "entry_low": 0.583
+  },
+  "11972": {
+    "coin": "MORPHO",
+    "direction": "SHORT",
+    "entry_price": 2.55,
+    "take_profits": [
+      2.44,
+      2.38,
+      2.32
+    ],
+    "stop_loss": 2.61,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 43.1373,
+    "source_msg_id": 11972,
+    "forwarded_msg_id": 1668,
+    "opened_at": "2026-08-25T20:36:00.210347+00:00",
+    "closed_at": "",
+    "entry_high": 2.57,
+    "entry_low": 2.53
   }
 }
