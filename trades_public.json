@@ -4383,6 +4383,27 @@
     "entry_high": 0.595,
     "entry_low": 0.583
   },
+  "11968": {
+    "coin": "XVG",
+    "direction": "SHORT",
+    "entry_price": 0.00253,
+    "take_profits": [
+      0.0024,
+      0.00232,
+      0.002225
+    ],
+    "stop_loss": 0.0026,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -27.668,
+    "source_msg_id": 11968,
+    "forwarded_msg_id": 1664,
+    "opened_at": "2026-08-25T20:10:49.859280+00:00",
+    "closed_at": "2026-08-27T08:58:53+00:00",
+    "entry_high": 0.00256,
+    "entry_low": 0.0025
+  },
   "11972": {
     "coin": "MORPHO",
     "direction": "SHORT",
