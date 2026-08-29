@@ -4447,5 +4447,26 @@
     "closed_at": "2026-08-28T12:12:00+00:00",
     "entry_high": 0.002065,
     "entry_low": 0.002
+  },
+  "11999": {
+    "coin": "AIXBT",
+    "direction": "SHORT",
+    "entry_price": 0.020225,
+    "take_profits": [
+      0.019,
+      0.0182,
+      0.0172
+    ],
+    "stop_loss": 0.021,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -38.3189,
+    "source_msg_id": 11999,
+    "forwarded_msg_id": 1687,
+    "opened_at": "2026-08-28T18:35:21.295869+00:00",
+    "closed_at": "2026-08-29T17:47:56+00:00",
+    "entry_high": 0.0206,
+    "entry_low": 0.01985
   }
 }
