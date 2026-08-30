@@ -4491,5 +4491,28 @@
     "closed_at": "",
     "entry_high": 3.535,
     "entry_low": 3.48
+  },
+  "12003": {
+    "coin": "MAGIC",
+    "direction": "LONG",
+    "entry_price": 0.0464,
+    "take_profits": [
+      0.048,
+      0.0492,
+      0.0504
+    ],
+    "stop_loss": 0.0454,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 34.4828,
+    "source_msg_id": 12003,
+    "forwarded_msg_id": 1695,
+    "opened_at": "2026-08-29T19:45:42.819662+00:00",
+    "closed_at": "",
+    "entry_high": 0.0468,
+    "entry_low": 0.046
   }
 }
