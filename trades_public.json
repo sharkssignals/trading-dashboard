@@ -4448,6 +4448,29 @@
     "entry_high": 0.002065,
     "entry_low": 0.002
   },
+  "11997": {
+    "coin": "SAND",
+    "direction": "SHORT",
+    "entry_price": 0.039325,
+    "take_profits": [
+      0.0363,
+      0.0348,
+      0.0334
+    ],
+    "stop_loss": 0.041,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 71.6113,
+    "source_msg_id": 11997,
+    "forwarded_msg_id": 1685,
+    "opened_at": "2026-08-28T18:30:17.362413+00:00",
+    "closed_at": "",
+    "entry_high": 0.04,
+    "entry_low": 0.03865
+  },
   "11999": {
     "coin": "AIXBT",
     "direction": "SHORT",
