@@ -4448,6 +4448,27 @@
     "entry_high": 0.002065,
     "entry_low": 0.002
   },
+  "11995": {
+    "coin": "YFI",
+    "direction": "SHORT",
+    "entry_price": 2272.5,
+    "take_profits": [
+      2180.0,
+      2140.0,
+      2080.0
+    ],
+    "stop_loss": 2320.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -20.9021,
+    "source_msg_id": 11995,
+    "forwarded_msg_id": 1682,
+    "opened_at": "2026-08-28T18:21:24.599899+00:00",
+    "closed_at": "2026-09-03T17:49:08+00:00",
+    "entry_high": 2300.0,
+    "entry_low": 2245.0
+  },
   "11997": {
     "coin": "SAND",
     "direction": "SHORT",
