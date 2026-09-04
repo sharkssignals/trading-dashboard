@@ -4581,5 +4581,26 @@
     "closed_at": "2026-09-01T18:28:43+00:00",
     "entry_high": 0.00962,
     "entry_low": 0.0093
+  },
+  "12022": {
+    "coin": "CYBER",
+    "direction": "LONG",
+    "entry_price": 0.3065,
+    "take_profits": [
+      0.315,
+      0.321,
+      0.328
+    ],
+    "stop_loss": 0.302,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -14.6819,
+    "source_msg_id": 12022,
+    "forwarded_msg_id": 1713,
+    "opened_at": "2026-09-03T20:35:59.569311+00:00",
+    "closed_at": "2026-09-04T05:49:56+00:00",
+    "entry_high": 0.308,
+    "entry_low": 0.305
   }
 }
