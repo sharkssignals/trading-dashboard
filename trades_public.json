@@ -4602,5 +4602,26 @@
     "closed_at": "2026-09-04T05:49:56+00:00",
     "entry_high": 0.308,
     "entry_low": 0.305
+  },
+  "12023": {
+    "coin": "REZ",
+    "direction": "LONG",
+    "entry_price": 0.003075,
+    "take_profits": [
+      0.00316,
+      0.00325,
+      0.00335
+    ],
+    "stop_loss": 0.00297,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -34.1463,
+    "source_msg_id": 12023,
+    "forwarded_msg_id": 1716,
+    "opened_at": "2026-09-03T21:33:23.085511+00:00",
+    "closed_at": "2026-09-04T06:40:33+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
