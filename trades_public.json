@@ -4686,5 +4686,26 @@
     "closed_at": "2026-09-09T15:21:28+00:00",
     "entry_high": 8.39,
     "entry_low": 8.275
+  },
+  "12054": {
+    "coin": "ALCH",
+    "direction": "LONG",
+    "entry_price": 0.0325,
+    "take_profits": [
+      0.0336,
+      0.0344,
+      0.0356
+    ],
+    "stop_loss": 0.0316,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -27.6923,
+    "source_msg_id": 12054,
+    "forwarded_msg_id": 1733,
+    "opened_at": "2026-09-11T13:00:25.805991+00:00",
+    "closed_at": "2026-09-11T21:39:04+00:00",
+    "entry_high": 0.0328,
+    "entry_low": 0.0322
   }
 }
