@@ -4645,6 +4645,29 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12037": {
+    "coin": "TRX",
+    "direction": "LONG",
+    "entry_price": 0.33325000000000005,
+    "take_profits": [
+      0.341,
+      0.346,
+      0.352
+    ],
+    "stop_loss": 0.329,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 21.978,
+    "source_msg_id": 12037,
+    "forwarded_msg_id": 1722,
+    "opened_at": "2026-09-05T20:46:00.196673+00:00",
+    "closed_at": "",
+    "entry_high": 0.3345,
+    "entry_low": 0.332
+  },
   "12039": {
     "coin": "SAGA",
     "direction": "LONG",
