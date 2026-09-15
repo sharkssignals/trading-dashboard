@@ -4730,5 +4730,47 @@
     "closed_at": "2026-09-11T21:39:04+00:00",
     "entry_high": 0.0328,
     "entry_low": 0.0322
+  },
+  "12065": {
+    "coin": "TWT",
+    "direction": "LONG",
+    "entry_price": 0.54175,
+    "take_profits": [
+      0.565,
+      0.575,
+      0.585
+    ],
+    "stop_loss": 0.527,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -27.2266,
+    "source_msg_id": 12065,
+    "forwarded_msg_id": 1738,
+    "opened_at": "2026-09-14T08:15:53.280287+00:00",
+    "closed_at": "2026-09-15T07:58:23+00:00",
+    "entry_high": 0.5475,
+    "entry_low": 0.536
+  },
+  "12067": {
+    "coin": "QTUM",
+    "direction": "LONG",
+    "entry_price": 0.94975,
+    "take_profits": [
+      1.02,
+      1.06,
+      1.1
+    ],
+    "stop_loss": 0.9,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -52.3822,
+    "source_msg_id": 12067,
+    "forwarded_msg_id": 1741,
+    "opened_at": "2026-09-14T08:31:00.862841+00:00",
+    "closed_at": "2026-09-15T07:59:01+00:00",
+    "entry_high": 0.966,
+    "entry_low": 0.9335
   }
 }
