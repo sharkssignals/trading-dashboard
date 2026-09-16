@@ -4772,5 +4772,28 @@
     "closed_at": "2026-09-15T07:59:01+00:00",
     "entry_high": 0.966,
     "entry_low": 0.9335
+  },
+  "12071": {
+    "coin": "MOODENG",
+    "direction": "SHORT",
+    "entry_price": 0.038175,
+    "take_profits": [
+      0.0366,
+      0.0358,
+      0.03505
+    ],
+    "stop_loss": 0.039,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 35.5731,
+    "source_msg_id": 12071,
+    "forwarded_msg_id": 1750,
+    "opened_at": "2026-09-16T11:52:07.469127+00:00",
+    "closed_at": "",
+    "entry_high": 0.0384,
+    "entry_low": 0.03795
   }
 }
