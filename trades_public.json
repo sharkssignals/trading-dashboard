@@ -4784,7 +4784,7 @@
     ],
     "stop_loss": 0.039,
     "leverage": 10,
-    "status": "TP1",
+    "status": "CANCELLED",
     "tps_hit": [
       1
     ],
@@ -4792,7 +4792,7 @@
     "source_msg_id": 12071,
     "forwarded_msg_id": 1750,
     "opened_at": "2026-09-16T11:52:07.469127+00:00",
-    "closed_at": "",
+    "closed_at": "2026-09-16T17:38:26+00:00",
     "entry_high": 0.0384,
     "entry_low": 0.03795
   }
