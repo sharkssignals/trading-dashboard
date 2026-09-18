@@ -4911,5 +4911,28 @@
     "closed_at": "",
     "entry_high": 106.0,
     "entry_low": 104.0
+  },
+  "12092": {
+    "coin": "PEOPLE",
+    "direction": "LONG",
+    "entry_price": 0.008335,
+    "take_profits": [
+      0.0088,
+      0.0091,
+      0.0094
+    ],
+    "stop_loss": 0.00797,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 38.961,
+    "source_msg_id": 12092,
+    "forwarded_msg_id": 1772,
+    "opened_at": "2026-09-18T12:25:14.569959+00:00",
+    "closed_at": "",
+    "entry_high": 0.00847,
+    "entry_low": 0.0082
   }
 }
