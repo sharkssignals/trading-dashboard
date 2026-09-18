@@ -4887,5 +4887,28 @@
     "closed_at": "",
     "entry_high": 0.0017,
     "entry_low": 0.00166
+  },
+  "12090": {
+    "coin": "SOL",
+    "direction": "LONG",
+    "entry_price": 105.0,
+    "take_profits": [
+      110.0,
+      112.4,
+      114.7
+    ],
+    "stop_loss": 101.0,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12090,
+    "forwarded_msg_id": 1769,
+    "opened_at": "2026-09-18T11:47:12.707625+00:00",
+    "closed_at": "",
+    "entry_high": 106.0,
+    "entry_low": 104.0
   }
 }
