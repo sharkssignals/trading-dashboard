@@ -4828,16 +4828,16 @@
     ],
     "stop_loss": 1.02,
     "leverage": 10,
-    "status": "TP2",
+    "status": "CLOSED",
     "tps_hit": [
       1,
       2
     ],
-    "pnl_pct": 39.7074,
+    "pnl_pct": 43.8871,
     "source_msg_id": 12078,
     "forwarded_msg_id": 1754,
     "opened_at": "2026-09-17T18:40:18.686011+00:00",
-    "closed_at": "",
+    "closed_at": "2026-09-18T07:10:29.321633+00:00",
     "entry_high": 1.068,
     "entry_low": 1.04
   }
