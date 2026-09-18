@@ -4840,5 +4840,28 @@
     "closed_at": "2026-09-18T07:10:29.321633+00:00",
     "entry_high": 1.068,
     "entry_low": 1.04
+  },
+  "12082": {
+    "coin": "BEAMX",
+    "direction": "LONG",
+    "entry_price": 0.00168,
+    "take_profits": [
+      0.00174,
+      0.00178,
+      0.00183
+    ],
+    "stop_loss": 0.00164,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12082,
+    "forwarded_msg_id": 1759,
+    "opened_at": "2026-09-17T21:01:10.552400+00:00",
+    "closed_at": "",
+    "entry_high": 0.0017,
+    "entry_low": 0.00166
   }
 }
