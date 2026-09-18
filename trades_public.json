@@ -4841,6 +4841,29 @@
     "entry_high": 1.068,
     "entry_low": 1.04
   },
+  "12080": {
+    "coin": "CAKE",
+    "direction": "LONG",
+    "entry_price": 2.42225,
+    "take_profits": [
+      2.52,
+      2.58,
+      2.64
+    ],
+    "stop_loss": 2.36,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12080,
+    "forwarded_msg_id": 1757,
+    "opened_at": "2026-09-17T19:05:29.795554+00:00",
+    "closed_at": "",
+    "entry_high": 2.4445,
+    "entry_low": 2.4
+  },
   "12082": {
     "coin": "BEAMX",
     "direction": "LONG",
