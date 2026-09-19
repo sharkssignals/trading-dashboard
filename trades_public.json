@@ -4992,11 +4992,12 @@
     ],
     "stop_loss": 0.194,
     "leverage": 10,
-    "status": "TP1",
+    "status": "TP2",
     "tps_hit": [
-      1
+      1,
+      2
     ],
-    "pnl_pct": 48.5245,
+    "pnl_pct": 56.1928,
     "source_msg_id": 12115,
     "forwarded_msg_id": 1790,
     "opened_at": "2026-09-19T20:20:56.981145+00:00",
