@@ -4980,5 +4980,28 @@
     "closed_at": "",
     "entry_high": 0.007645,
     "entry_low": 0.0074
+  },
+  "12115": {
+    "coin": "BAND",
+    "direction": "LONG",
+    "entry_price": 0.20074999999999998,
+    "take_profits": [
+      0.212,
+      0.218,
+      0.224
+    ],
+    "stop_loss": 0.194,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 48.5245,
+    "source_msg_id": 12115,
+    "forwarded_msg_id": 1790,
+    "opened_at": "2026-09-19T20:20:56.981145+00:00",
+    "closed_at": "",
+    "entry_high": 0.2026,
+    "entry_low": 0.1989
   }
 }
