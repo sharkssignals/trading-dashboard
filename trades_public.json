@@ -4981,6 +4981,29 @@
     "entry_high": 0.007645,
     "entry_low": 0.0074
   },
+  "12113": {
+    "coin": "ALGO",
+    "direction": "LONG",
+    "entry_price": 0.101,
+    "take_profits": [
+      0.105,
+      0.108,
+      0.11
+    ],
+    "stop_loss": 0.0984,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 39.604,
+    "source_msg_id": 12113,
+    "forwarded_msg_id": 1787,
+    "opened_at": "2026-09-19T20:10:51.356743+00:00",
+    "closed_at": "",
+    "entry_high": 0.102,
+    "entry_low": 0.1
+  },
   "12115": {
     "coin": "BAND",
     "direction": "LONG",
