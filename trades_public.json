@@ -5029,5 +5029,28 @@
     "closed_at": "2026-09-20T00:06:42+00:00",
     "entry_high": 0.2026,
     "entry_low": 0.1989
+  },
+  "12117": {
+    "coin": "ETH",
+    "direction": "LONG",
+    "entry_price": 2600.0,
+    "take_profits": [
+      2770.0,
+      2900.0,
+      2970.0
+    ],
+    "stop_loss": 2500.0,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12117,
+    "forwarded_msg_id": 1792,
+    "opened_at": "2026-09-19T20:26:00.778043+00:00",
+    "closed_at": "",
+    "entry_high": 2640.0,
+    "entry_low": 2560.0
   }
 }
