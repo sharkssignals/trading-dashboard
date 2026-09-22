@@ -5052,5 +5052,28 @@
     "closed_at": "",
     "entry_high": 2640.0,
     "entry_low": 2560.0
+  },
+  "12133": {
+    "coin": "AUCTION",
+    "direction": "LONG",
+    "entry_price": 3.618,
+    "take_profits": [
+      3.75,
+      3.84,
+      3.92
+    ],
+    "stop_loss": 3.54,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 28.5244,
+    "source_msg_id": 12133,
+    "forwarded_msg_id": 1809,
+    "opened_at": "2026-09-21T20:11:23.061493+00:00",
+    "closed_at": "",
+    "entry_high": 3.646,
+    "entry_low": 3.59
   }
 }
