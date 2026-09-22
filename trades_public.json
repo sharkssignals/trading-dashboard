@@ -5099,5 +5099,28 @@
     "closed_at": "",
     "entry_high": 3.646,
     "entry_low": 3.59
+  },
+  "12143": {
+    "coin": "RVN",
+    "direction": "LONG",
+    "entry_price": 0.002381,
+    "take_profits": [
+      0.00246,
+      0.00252,
+      0.00258
+    ],
+    "stop_loss": 0.00232,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 20.7469,
+    "source_msg_id": 12143,
+    "forwarded_msg_id": 1818,
+    "opened_at": "2026-09-22T21:32:14.572438+00:00",
+    "closed_at": "",
+    "entry_high": 0.00241,
+    "entry_low": 0.002352
   }
 }
