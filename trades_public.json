@@ -5064,15 +5064,15 @@
     ],
     "stop_loss": 0.0204,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 28.3019,
+    "pnl_pct": 19.8113,
     "source_msg_id": 12131,
     "forwarded_msg_id": 1806,
     "opened_at": "2026-09-21T19:58:15.025405+00:00",
-    "closed_at": "",
+    "closed_at": "2026-09-22T10:24:38+00:00",
     "entry_high": 0.0212,
     "entry_low": 0.0208
   },
