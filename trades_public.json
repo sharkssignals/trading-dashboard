@@ -5111,15 +5111,15 @@
     ],
     "stop_loss": 0.00232,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 20.7469,
+    "pnl_pct": 14.5228,
     "source_msg_id": 12143,
     "forwarded_msg_id": 1818,
     "opened_at": "2026-09-22T21:32:14.572438+00:00",
-    "closed_at": "",
+    "closed_at": "2026-09-23T08:05:12+00:00",
     "entry_high": 0.00241,
     "entry_low": 0.002352
   }
