@@ -5100,6 +5100,27 @@
     "entry_high": 3.646,
     "entry_low": 3.59
   },
+  "12141": {
+    "coin": "BANANA",
+    "direction": "LONG",
+    "entry_price": 4.125,
+    "take_profits": [
+      4.28,
+      4.38,
+      4.48
+    ],
+    "stop_loss": 3.97,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -37.5758,
+    "source_msg_id": 12141,
+    "forwarded_msg_id": 1815,
+    "opened_at": "2026-09-22T18:35:30.609190+00:00",
+    "closed_at": "2026-09-23T14:25:17+00:00",
+    "entry_high": 4.17,
+    "entry_low": 4.08
+  },
   "12143": {
     "coin": "RVN",
     "direction": "LONG",
