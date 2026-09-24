@@ -5143,5 +5143,28 @@
     "closed_at": "2026-09-23T08:05:12+00:00",
     "entry_high": 0.00241,
     "entry_low": 0.002352
+  },
+  "12153": {
+    "coin": "GPS",
+    "direction": "SHORT",
+    "entry_price": 0.01179,
+    "take_profits": [
+      0.0114,
+      0.0111,
+      0.0109
+    ],
+    "stop_loss": 0.0122,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12153,
+    "forwarded_msg_id": 1826,
+    "opened_at": "2026-09-24T09:21:55.769693+00:00",
+    "closed_at": "",
+    "entry_high": 0.0119,
+    "entry_low": 0.01168
   }
 }
