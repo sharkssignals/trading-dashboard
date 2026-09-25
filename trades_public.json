@@ -5255,6 +5255,29 @@
     "entry_high": 0.223,
     "entry_low": 0.2187
   },
+  "12167": {
+    "coin": "BCH",
+    "direction": "LONG",
+    "entry_price": 338.1,
+    "take_profits": [
+      347.0,
+      354.0,
+      363.0
+    ],
+    "stop_loss": 332.0,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 22.0913,
+    "source_msg_id": 12167,
+    "forwarded_msg_id": 1845,
+    "opened_at": "2026-09-25T19:11:43.184881+00:00",
+    "closed_at": "",
+    "entry_high": 340.2,
+    "entry_low": 336.0
+  },
   "12170": {
     "coin": "APT",
     "direction": "LONG",
