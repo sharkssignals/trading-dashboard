@@ -5266,15 +5266,15 @@
     ],
     "stop_loss": 332.0,
     "leverage": 10,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 22.0913,
+    "pnl_pct": 15.4639,
     "source_msg_id": 12167,
     "forwarded_msg_id": 1845,
     "opened_at": "2026-09-25T19:11:43.184881+00:00",
-    "closed_at": "",
+    "closed_at": "2026-09-26T02:41:24+00:00",
     "entry_high": 340.2,
     "entry_low": 336.0
   },
