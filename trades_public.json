@@ -5322,5 +5322,26 @@
     "closed_at": "2026-10-01T14:15:26+00:00",
     "entry_high": 21.7,
     "entry_low": 21.3
+  },
+  "12200": {
+    "coin": "LAYER",
+    "direction": "SHORT",
+    "entry_price": 0.07644999999999999,
+    "take_profits": [
+      0.0734,
+      0.0713,
+      0.0697
+    ],
+    "stop_loss": 0.0785,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -26.8149,
+    "source_msg_id": 12200,
+    "forwarded_msg_id": 1859,
+    "opened_at": "2026-10-01T14:05:59.674476+00:00",
+    "closed_at": "2026-10-02T09:32:17+00:00",
+    "entry_high": 0.077,
+    "entry_low": 0.0759
   }
 }
