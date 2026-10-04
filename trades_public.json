@@ -5344,6 +5344,27 @@
     "entry_high": 0.077,
     "entry_low": 0.0759
   },
+  "12202": {
+    "coin": "ACE",
+    "direction": "SHORT",
+    "entry_price": 0.1822,
+    "take_profits": [
+      0.177,
+      0.173,
+      0.169
+    ],
+    "stop_loss": 0.186,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -20.8562,
+    "source_msg_id": 12202,
+    "forwarded_msg_id": 1866,
+    "opened_at": "2026-10-03T12:55:32.516493+00:00",
+    "closed_at": "2026-10-04T07:22:29+00:00",
+    "entry_high": 0.184,
+    "entry_low": 0.1804
+  },
   "12204": {
     "coin": "CAKE",
     "direction": "SHORT",
