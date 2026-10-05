@@ -5385,5 +5385,25 @@
     "closed_at": "2026-09-18T17:02:43+00:00",
     "entry_high": 2.52,
     "entry_low": 2.487
+  },
+  "12213": {
+    "coin": "ZEC",
+    "direction": "SHORT",
+    "entry_price": 1319.0,
+    "take_profits": [
+      1292.0,
+      1244.99
+    ],
+    "stop_loss": 1365.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -34.8749,
+    "source_msg_id": 12213,
+    "forwarded_msg_id": 1883,
+    "opened_at": "2026-10-05T09:47:21.549354+00:00",
+    "closed_at": "2026-10-05T14:17:04+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
