@@ -5424,5 +5424,26 @@
     "closed_at": "2026-10-05T14:32:58.570352+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12216": {
+    "coin": "SAND",
+    "direction": "SHORT",
+    "entry_price": 0.07222,
+    "take_profits": [
+      0.06901
+    ],
+    "stop_loss": 0.7781,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 44.7121,
+    "source_msg_id": 12216,
+    "forwarded_msg_id": 1892,
+    "opened_at": "2026-10-05T11:08:12.714539+00:00",
+    "closed_at": "2026-10-05T14:32:55+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
