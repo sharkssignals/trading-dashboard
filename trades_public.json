@@ -5406,6 +5406,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12215": {
+    "coin": "CHR",
+    "direction": "SHORT",
+    "entry_price": 0.02302,
+    "take_profits": [
+      0.02125
+    ],
+    "stop_loss": 0.02433,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 76.8897,
+    "source_msg_id": 12215,
+    "forwarded_msg_id": 1886,
+    "opened_at": "2026-10-05T10:42:54.993012+00:00",
+    "closed_at": "2026-10-06T03:31:58.243459+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12218": {
     "coin": "SAND",
     "direction": "SHORT",
