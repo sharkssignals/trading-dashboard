@@ -5464,5 +5464,24 @@
     "closed_at": "2026-10-05T14:32:55+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12227": {
+    "coin": "BCH",
+    "direction": "SHORT",
+    "entry_price": 313.62,
+    "take_profits": [
+      306.26
+    ],
+    "stop_loss": 324.58,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 23.2781,
+    "source_msg_id": 12227,
+    "forwarded_msg_id": 1901,
+    "opened_at": "2026-10-05T16:27:22.569002+00:00",
+    "closed_at": "2026-10-07T01:56:56.919679+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
