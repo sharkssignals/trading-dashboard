@@ -5570,5 +5570,26 @@
     "closed_at": "2026-10-07T02:08:12+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12241": {
+    "coin": "STX",
+    "direction": "SHORT",
+    "entry_price": 0.3988,
+    "take_profits": [
+      0.37
+    ],
+    "stop_loss": 0.4241,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 72.2166,
+    "source_msg_id": 12241,
+    "forwarded_msg_id": 1918,
+    "opened_at": "2026-10-07T08:58:37.006001+00:00",
+    "closed_at": "2026-10-07T14:55:25+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
