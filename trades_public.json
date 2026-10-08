@@ -5591,5 +5591,24 @@
     "closed_at": "2026-10-07T14:55:25+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12243": {
+    "coin": "SOL",
+    "direction": "SHORT",
+    "entry_price": 116.45,
+    "take_profits": [
+      112.6
+    ],
+    "stop_loss": 122.86,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 33.0614,
+    "source_msg_id": 12243,
+    "forwarded_msg_id": 1921,
+    "opened_at": "2026-10-07T12:28:15.299713+00:00",
+    "closed_at": "2026-10-08T12:40:20.143965+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
