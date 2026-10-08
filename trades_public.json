@@ -5643,14 +5643,12 @@
     "stop_loss": 14.193,
     "leverage": 10,
     "status": "CLOSED",
-    "tps_hit": [
-      3
-    ],
+    "tps_hit": [],
     "pnl_pct": 55.0603,
     "source_msg_id": 12247,
     "forwarded_msg_id": 1927,
     "opened_at": "2026-10-07T13:03:05.801144+00:00",
-    "closed_at": "2026-10-08T15:21:27+00:00",
+    "closed_at": "2026-10-08T15:26:22.489341+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
