@@ -5536,15 +5536,16 @@
     ],
     "stop_loss": 0.005732,
     "leverage": 10,
-    "status": "TP1",
+    "status": "CLOSED",
     "tps_hit": [
-      1
+      1,
+      3
     ],
-    "pnl_pct": 66.73,
+    "pnl_pct": 78.9818,
     "source_msg_id": 12232,
     "forwarded_msg_id": 1905,
     "opened_at": "2026-10-06T12:50:23.302932+00:00",
-    "closed_at": "",
+    "closed_at": "2026-10-08T15:23:41+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
@@ -5611,6 +5612,48 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12245": {
+    "coin": "ZRX",
+    "direction": "SHORT",
+    "entry_price": 0.11768,
+    "take_profits": [
+      0.11308
+    ],
+    "stop_loss": 0.12388,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 38.2653,
+    "source_msg_id": 12245,
+    "forwarded_msg_id": 1924,
+    "opened_at": "2026-10-07T12:45:05.511279+00:00",
+    "closed_at": "2026-10-08T15:23:33+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12247": {
+    "coin": "LINK",
+    "direction": "SHORT",
+    "entry_price": 13.349,
+    "take_profits": [
+      12.614
+    ],
+    "stop_loss": 14.193,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 55.0603,
+    "source_msg_id": 12247,
+    "forwarded_msg_id": 1927,
+    "opened_at": "2026-10-07T13:03:05.801144+00:00",
+    "closed_at": "2026-10-08T15:21:27+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12249": {
     "coin": "DASH",
     "direction": "SHORT",
@@ -5622,15 +5665,17 @@
     ],
     "stop_loss": 55.5,
     "leverage": 10,
-    "status": "TP1",
+    "status": "CLOSED",
     "tps_hit": [
-      1
+      1,
+      2,
+      3
     ],
-    "pnl_pct": 36.3388,
+    "pnl_pct": 44.1523,
     "source_msg_id": 12249,
     "forwarded_msg_id": 1930,
     "opened_at": "2026-10-07T14:31:03.127868+00:00",
-    "closed_at": "",
+    "closed_at": "2026-10-08T15:24:31+00:00",
     "entry_high": 54.9,
     "entry_low": 53.18
   }
