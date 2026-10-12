@@ -5774,14 +5774,13 @@
     "leverage": 10,
     "status": "CLOSED",
     "tps_hit": [
-      1,
-      3
+      1
     ],
     "pnl_pct": 13.7566,
     "source_msg_id": 12267,
     "forwarded_msg_id": 1948,
     "opened_at": "2026-10-12T17:02:34.264763+00:00",
-    "closed_at": "2026-10-12T21:46:25+00:00",
+    "closed_at": "2026-10-12T21:51:22.405418+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
