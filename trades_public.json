@@ -5761,5 +5761,27 @@
     "closed_at": "2026-10-11T17:37:49+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12267": {
+    "coin": "DASH",
+    "direction": "SHORT",
+    "entry_price": 50.4,
+    "take_profits": [
+      49.82,
+      49.31
+    ],
+    "stop_loss": 51.63,
+    "leverage": 10,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12267,
+    "forwarded_msg_id": 1948,
+    "opened_at": "2026-10-12T17:02:34.264763+00:00",
+    "closed_at": "",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
