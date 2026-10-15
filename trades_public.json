@@ -5848,6 +5848,25 @@
     "entry_high": 0.332,
     "entry_low": 0.3246
   },
+  "12288": {
+    "coin": "ETH",
+    "direction": "LONG",
+    "entry_price": 2378.25,
+    "take_profits": [
+      2442.0
+    ],
+    "stop_loss": 2293.0,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 26.7838,
+    "source_msg_id": 12288,
+    "forwarded_msg_id": 1976,
+    "opened_at": "2026-10-15T07:55:55.013576+00:00",
+    "closed_at": "2026-10-15T15:39:31.285445+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12290": {
     "coin": "ADA",
     "direction": "SHORT",
