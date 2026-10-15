@@ -5784,6 +5784,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12272": {
+    "coin": "BTC",
+    "direction": "SHORT",
+    "entry_price": 83299.0,
+    "take_profits": [
+      81044.0
+    ],
+    "stop_loss": 85568.0,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 27.0712,
+    "source_msg_id": 12272,
+    "forwarded_msg_id": 1956,
+    "opened_at": "2026-10-13T12:01:13.747698+00:00",
+    "closed_at": "2026-10-15T02:25:52.672572+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12275": {
     "coin": "XTZ",
     "direction": "LONG",
