@@ -5906,5 +5906,43 @@
     "closed_at": "2026-10-16T02:40:57.374386+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12300": {
+    "coin": "APT",
+    "direction": "SHORT",
+    "entry_price": 0.8271,
+    "take_profits": [
+      0.81
+    ],
+    "stop_loss": 0.8496,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12300,
+    "forwarded_msg_id": 1991,
+    "opened_at": "2026-10-17T11:17:16.014315+00:00",
+    "closed_at": "2026-10-17T13:05:27.401217+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12303": {
+    "coin": "APT",
+    "direction": "SHORT",
+    "entry_price": 0.8257,
+    "take_profits": [
+      0.81
+    ],
+    "stop_loss": 0.8496,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 19.0142,
+    "source_msg_id": 12303,
+    "forwarded_msg_id": 1993,
+    "opened_at": "2026-10-17T11:17:50.741825+00:00",
+    "closed_at": "2026-10-17T13:05:27.416457+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
