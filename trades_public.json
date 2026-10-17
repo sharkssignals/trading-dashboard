@@ -5907,6 +5907,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12295": {
+    "coin": "PEPE",
+    "direction": "LONG",
+    "entry_price": 4.19e-06,
+    "take_profits": [
+      4.46e-06
+    ],
+    "stop_loss": 3.81e-06,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -90.6921,
+    "source_msg_id": 12295,
+    "forwarded_msg_id": 1987,
+    "opened_at": "2026-10-15T15:40:38.041681+00:00",
+    "closed_at": "2026-10-17T21:32:40+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12300": {
     "coin": "APT",
     "direction": "SHORT",
@@ -5942,6 +5961,44 @@
     "forwarded_msg_id": 1993,
     "opened_at": "2026-10-17T11:17:50.741825+00:00",
     "closed_at": "2026-10-17T13:05:27.416457+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12310": {
+    "coin": "CHZ",
+    "direction": "LONG",
+    "entry_price": 0.01395,
+    "take_profits": [
+      0.01421
+    ],
+    "stop_loss": 0.01366,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -20.7885,
+    "source_msg_id": 12310,
+    "forwarded_msg_id": 1997,
+    "opened_at": "2026-10-17T18:30:05.941912+00:00",
+    "closed_at": "2026-10-17T21:32:20+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12308": {
+    "coin": "CHZ",
+    "direction": "LONG",
+    "entry_price": 0.01393,
+    "take_profits": [
+      0.01421
+    ],
+    "stop_loss": 0.01366,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -19.3826,
+    "source_msg_id": 12308,
+    "forwarded_msg_id": 2001,
+    "opened_at": "2026-10-17T18:30:16.070788+00:00",
+    "closed_at": "2026-10-17T21:32:39+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
