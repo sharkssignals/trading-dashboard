@@ -6115,5 +6115,24 @@
     "closed_at": "2026-10-18T14:34:04.795829+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12326": {
+    "coin": "HOT",
+    "direction": "SHORT",
+    "entry_price": 0.000358,
+    "take_profits": [
+      0.0003507
+    ],
+    "stop_loss": 0.00036701,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 20.3911,
+    "source_msg_id": 12326,
+    "forwarded_msg_id": 2031,
+    "opened_at": "2026-10-18T14:10:52.422502+00:00",
+    "closed_at": "2026-10-18T19:28:55.306264+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
