@@ -5886,6 +5886,44 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12282": {
+    "coin": "XTZ",
+    "direction": "SHORT",
+    "entry_price": 0.3115,
+    "take_profits": [
+      0.2845
+    ],
+    "stop_loss": 0.3356,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 32.1027,
+    "source_msg_id": 12282,
+    "forwarded_msg_id": 1968,
+    "opened_at": "2026-10-14T12:50:28.206974+00:00",
+    "closed_at": "2026-10-18T03:52:23+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12284": {
+    "coin": "XTZ",
+    "direction": "SHORT",
+    "entry_price": 0.311,
+    "take_profits": [
+      0.2845
+    ],
+    "stop_loss": 0.3356,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 30.5466,
+    "source_msg_id": 12284,
+    "forwarded_msg_id": 1971,
+    "opened_at": "2026-10-14T12:55:32.565220+00:00",
+    "closed_at": "2026-10-18T03:52:23+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12288": {
     "coin": "ETH",
     "direction": "LONG",
