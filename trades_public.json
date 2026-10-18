@@ -6096,5 +6096,24 @@
     "closed_at": "2026-10-17T21:32:39+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12321": {
+    "coin": "EIGEN",
+    "direction": "SHORT",
+    "entry_price": 0.2401,
+    "take_profits": [
+      0.2307
+    ],
+    "stop_loss": 0.259,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 39.1504,
+    "source_msg_id": 12321,
+    "forwarded_msg_id": 2024,
+    "opened_at": "2026-10-18T11:35:01.020661+00:00",
+    "closed_at": "2026-10-18T14:34:04.795829+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
