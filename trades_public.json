@@ -6154,6 +6154,44 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12327": {
+    "coin": "HOT",
+    "direction": "SHORT",
+    "entry_price": 0.000359,
+    "take_profits": [
+      0.0003051
+    ],
+    "stop_loss": 0.0003701,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -30.9192,
+    "source_msg_id": 12327,
+    "forwarded_msg_id": 2032,
+    "opened_at": "2026-10-18T14:10:52.592173+00:00",
+    "closed_at": "2026-10-20T14:08:21+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12330": {
+    "coin": "HOT",
+    "direction": "SHORT",
+    "entry_price": 0.0003589,
+    "take_profits": [
+      0.0003051
+    ],
+    "stop_loss": 0.0003701,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -31.2065,
+    "source_msg_id": 12330,
+    "forwarded_msg_id": 2034,
+    "opened_at": "2026-10-18T14:11:03.458682+00:00",
+    "closed_at": "2026-10-20T14:08:21+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12348": {
     "coin": "INJ",
     "direction": "LONG",
