@@ -6212,5 +6212,24 @@
     "closed_at": "2026-10-18T23:23:33+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12357": {
+    "coin": "ONT",
+    "direction": "LONG",
+    "entry_price": 0.05191,
+    "take_profits": [
+      0.533
+    ],
+    "stop_loss": 0.04961,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 26.7771,
+    "source_msg_id": 12357,
+    "forwarded_msg_id": 2068,
+    "opened_at": "2026-10-19T10:21:34.436918+00:00",
+    "closed_at": "2026-10-20T04:16:26.527425+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
