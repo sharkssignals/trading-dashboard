@@ -6230,6 +6230,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12340": {
+    "coin": "PUMP",
+    "direction": "SHORT",
+    "entry_price": 0.004112,
+    "take_profits": [
+      0.003565
+    ],
+    "stop_loss": 0.004803,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -168.0447,
+    "source_msg_id": 12340,
+    "forwarded_msg_id": 2048,
+    "opened_at": "2026-10-18T16:25:52.153753+00:00",
+    "closed_at": "2026-10-20T20:56:22+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12348": {
     "coin": "INJ",
     "direction": "LONG",
