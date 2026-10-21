@@ -6289,6 +6289,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12355": {
+    "coin": "XRP",
+    "direction": "LONG",
+    "entry_price": 1.3161,
+    "take_profits": [
+      1.3485
+    ],
+    "stop_loss": 1.2782,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 24.6182,
+    "source_msg_id": 12355,
+    "forwarded_msg_id": 2065,
+    "opened_at": "2026-10-19T09:42:37.173455+00:00",
+    "closed_at": "2026-10-21T07:55:44.147652+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12357": {
     "coin": "ONT",
     "direction": "LONG",
