@@ -6326,5 +6326,24 @@
     "closed_at": "2026-10-20T04:16:26.527425+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12379": {
+    "coin": "MANA",
+    "direction": "LONG",
+    "entry_price": 0.08775,
+    "take_profits": [
+      0.092
+    ],
+    "stop_loss": 0.08265,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -58.1197,
+    "source_msg_id": 12379,
+    "forwarded_msg_id": 2099,
+    "opened_at": "2026-10-21T08:59:31.011745+00:00",
+    "closed_at": "2026-10-22T14:47:36+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
