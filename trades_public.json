@@ -6249,6 +6249,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12346": {
+    "coin": "LDO",
+    "direction": "SHORT",
+    "entry_price": 0.363,
+    "take_profits": [
+      0.3093
+    ],
+    "stop_loss": 0.4239,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 23.8278,
+    "source_msg_id": 12346,
+    "forwarded_msg_id": 2052,
+    "opened_at": "2026-10-18T19:50:42.748508+00:00",
+    "closed_at": "2026-10-22T15:16:09.236881+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12348": {
     "coin": "INJ",
     "direction": "LONG",
@@ -6324,6 +6343,25 @@
     "forwarded_msg_id": 2068,
     "opened_at": "2026-10-19T10:21:34.436918+00:00",
     "closed_at": "2026-10-20T04:16:26.527425+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12372": {
+    "coin": "ICP",
+    "direction": "LONG",
+    "entry_price": 2.905,
+    "take_profits": [
+      3.064
+    ],
+    "stop_loss": 2.742,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -56.1102,
+    "source_msg_id": 12372,
+    "forwarded_msg_id": 2086,
+    "opened_at": "2026-10-20T15:12:06.148531+00:00",
+    "closed_at": "2026-10-22T15:08:52+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
