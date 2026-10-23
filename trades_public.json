@@ -6405,5 +6405,24 @@
     "closed_at": "",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12389": {
+    "coin": "ZRO",
+    "direction": "SHORT",
+    "entry_price": 1.8699,
+    "take_profits": [
+      1.6725
+    ],
+    "stop_loss": 2.2424,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 52.7836,
+    "source_msg_id": 12389,
+    "forwarded_msg_id": 2115,
+    "opened_at": "2026-10-22T06:50:22.548269+00:00",
+    "closed_at": "2026-10-23T22:56:38.001596+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
