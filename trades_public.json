@@ -6365,6 +6365,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12374": {
+    "coin": "ADA",
+    "direction": "LONG",
+    "entry_price": 0.2206,
+    "take_profits": [
+      0.2348
+    ],
+    "stop_loss": 0.2065,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -63.9166,
+    "source_msg_id": 12374,
+    "forwarded_msg_id": 2091,
+    "opened_at": "2026-10-20T15:38:01.827578+00:00",
+    "closed_at": "2026-10-23T22:54:02+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12379": {
     "coin": "MANA",
     "direction": "LONG",
