@@ -6135,6 +6135,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12323": {
+    "coin": "CHZ",
+    "direction": "SHORT",
+    "entry_price": 0.01372,
+    "take_profits": [
+      0.01263
+    ],
+    "stop_loss": 0.01503,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 79.4461,
+    "source_msg_id": 12323,
+    "forwarded_msg_id": 2027,
+    "opened_at": "2026-10-18T11:51:07.850589+00:00",
+    "closed_at": "2026-10-24T14:18:12+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12326": {
     "coin": "HOT",
     "direction": "SHORT",
@@ -6422,6 +6443,27 @@
     "forwarded_msg_id": 2104,
     "opened_at": "2026-10-21T15:21:10.987222+00:00",
     "closed_at": "",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12387": {
+    "coin": "CHR",
+    "direction": "SHORT",
+    "entry_price": 0.01871,
+    "take_profits": [
+      0.01737
+    ],
+    "stop_loss": 0.02066,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 71.6195,
+    "source_msg_id": 12387,
+    "forwarded_msg_id": 2113,
+    "opened_at": "2026-10-22T06:45:18.631763+00:00",
+    "closed_at": "2026-10-24T14:16:26+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
