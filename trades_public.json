@@ -6426,6 +6426,26 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12376": {
+    "coin": "XTZ",
+    "direction": "LONG",
+    "entry_price": 0.3136,
+    "take_profits": [
+      0.3345,
+      0.36
+    ],
+    "stop_loss": 0.289,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -39.2219,
+    "source_msg_id": 12376,
+    "forwarded_msg_id": 2094,
+    "opened_at": "2026-10-20T15:48:29.004754+00:00",
+    "closed_at": "2026-10-24T15:16:33+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12379": {
     "coin": "MANA",
     "direction": "LONG",
