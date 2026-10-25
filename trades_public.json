@@ -6388,6 +6388,44 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12368": {
+    "coin": "XEC",
+    "direction": "LONG",
+    "entry_price": 6.58e-06,
+    "take_profits": [
+      6.99e-06
+    ],
+    "stop_loss": 6.05e-06,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 62.31,
+    "source_msg_id": 12368,
+    "forwarded_msg_id": 2082,
+    "opened_at": "2026-10-20T15:07:06.087479+00:00",
+    "closed_at": "2026-10-25T02:04:34.935549+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12370": {
+    "coin": "XEC",
+    "direction": "LONG",
+    "entry_price": 6.608e-06,
+    "take_profits": [
+      6.99e-06
+    ],
+    "stop_loss": 6.05e-06,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 57.4887,
+    "source_msg_id": 12370,
+    "forwarded_msg_id": 2084,
+    "opened_at": "2026-10-20T15:09:06.111653+00:00",
+    "closed_at": "2026-10-25T02:04:35.047502+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12372": {
     "coin": "ICP",
     "direction": "LONG",
