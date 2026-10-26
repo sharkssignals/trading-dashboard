@@ -6647,6 +6647,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12390": {
+    "coin": "BNB",
+    "direction": "SHORT",
+    "entry_price": 734.04,
+    "take_profits": [
+      693.02
+    ],
+    "stop_loss": 774.8,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 22.6947,
+    "source_msg_id": 12390,
+    "forwarded_msg_id": 2120,
+    "opened_at": "2026-10-22T11:42:55.139149+00:00",
+    "closed_at": "2026-10-18T03:18:23+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12396": {
     "coin": "MANA",
     "direction": "LONG",
@@ -6685,6 +6704,25 @@
     "closed_at": "2026-10-26T12:55:22.588022+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12405": {
+    "coin": "ADA",
+    "direction": "SHORT",
+    "entry_price": 0.21155000000000002,
+    "take_profits": [
+      0.1744
+    ],
+    "stop_loss": 0.2399,
+    "leverage": 5,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -67.0054,
+    "source_msg_id": 12405,
+    "forwarded_msg_id": 2140,
+    "opened_at": "2026-10-25T11:36:55.132442+00:00",
+    "closed_at": "2026-10-26T17:19:04+00:00",
+    "entry_high": 0.22,
+    "entry_low": 0.2031
   },
   "12407": {
     "coin": "INJ",
