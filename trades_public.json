@@ -6517,7 +6517,7 @@
     ],
     "stop_loss": 0.14619,
     "leverage": 10,
-    "status": "TP1",
+    "status": "CANCELLED",
     "tps_hit": [
       1
     ],
@@ -6525,7 +6525,26 @@
     "source_msg_id": 12381,
     "forwarded_msg_id": 2104,
     "opened_at": "2026-10-21T15:21:10.987222+00:00",
-    "closed_at": "",
+    "closed_at": "2026-10-26T12:55:22.557837+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12383": {
+    "coin": "BTC",
+    "direction": "SHORT",
+    "entry_price": 84429.0,
+    "take_profits": [
+      73133.0
+    ],
+    "stop_loss": 86932.0,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12383,
+    "forwarded_msg_id": 2107,
+    "opened_at": "2026-10-21T17:16:51.297121+00:00",
+    "closed_at": "2026-10-26T12:55:22.613104+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
@@ -6585,6 +6604,64 @@
     "forwarded_msg_id": 2115,
     "opened_at": "2026-10-22T06:50:22.548269+00:00",
     "closed_at": "2026-10-23T22:56:38.001596+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12398": {
+    "coin": "ASTER",
+    "direction": "LONG",
+    "entry_price": 0.6958,
+    "take_profits": [
+      0.7324,
+      0.7957
+    ],
+    "stop_loss": 0.6647,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12398,
+    "forwarded_msg_id": 2129,
+    "opened_at": "2026-10-24T14:05:46.382500+00:00",
+    "closed_at": "2026-10-26T12:55:22.588022+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12407": {
+    "coin": "INJ",
+    "direction": "LONG",
+    "entry_price": 7.3635,
+    "take_profits": [
+      8.356
+    ],
+    "stop_loss": 6.85,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12407,
+    "forwarded_msg_id": 2143,
+    "opened_at": "2026-10-25T11:41:58.874068+00:00",
+    "closed_at": "2026-10-26T12:55:22.572393+00:00",
+    "entry_high": 7.53,
+    "entry_low": 7.197
+  },
+  "12412": {
+    "coin": "ZEC",
+    "direction": "LONG",
+    "entry_price": 1199.33,
+    "take_profits": [
+      1339.0
+    ],
+    "stop_loss": 1050.0,
+    "leverage": 5,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12412,
+    "forwarded_msg_id": 2153,
+    "opened_at": "2026-10-25T14:36:00.248241+00:00",
+    "closed_at": "2026-10-26T12:55:22.602187+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
