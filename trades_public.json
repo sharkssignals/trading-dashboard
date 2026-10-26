@@ -4268,6 +4268,27 @@
     "entry_high": 408.9,
     "entry_low": 404.94
   },
+  "11942": {
+    "coin": "KAITO",
+    "direction": "LONG",
+    "entry_price": 0.072625,
+    "take_profits": [
+      0.0775,
+      0.081,
+      0.086
+    ],
+    "stop_loss": 0.068,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -63.6833,
+    "source_msg_id": 11942,
+    "forwarded_msg_id": 1635,
+    "opened_at": "2026-08-21T20:12:07.055111+00:00",
+    "closed_at": "2026-10-26T13:02:38+00:00",
+    "entry_high": 0.07425,
+    "entry_low": 0.071
+  },
   "11952": {
     "coin": "PORTAL",
     "direction": "LONG",
@@ -6116,6 +6137,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12319": {
+    "coin": "LDO",
+    "direction": "LONG",
+    "entry_price": 0.3882,
+    "take_profits": [
+      0.4231
+    ],
+    "stop_loss": 0.3531,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -90.4173,
+    "source_msg_id": 12319,
+    "forwarded_msg_id": 2021,
+    "opened_at": "2026-10-18T10:15:31.444145+00:00",
+    "closed_at": "2026-10-26T13:02:38+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12321": {
     "coin": "EIGEN",
     "direction": "SHORT",
@@ -6604,6 +6644,25 @@
     "forwarded_msg_id": 2115,
     "opened_at": "2026-10-22T06:50:22.548269+00:00",
     "closed_at": "2026-10-23T22:56:38.001596+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12396": {
+    "coin": "MANA",
+    "direction": "LONG",
+    "entry_price": 0.07984,
+    "take_profits": [
+      0.08357
+    ],
+    "stop_loss": 0.07617,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -45.9669,
+    "source_msg_id": 12396,
+    "forwarded_msg_id": 2128,
+    "opened_at": "2026-10-24T14:05:46.041471+00:00",
+    "closed_at": "2026-10-26T13:02:39+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
