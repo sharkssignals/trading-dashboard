@@ -6646,6 +6646,44 @@
     "entry_high": 7.53,
     "entry_low": 7.197
   },
+  "12408": {
+    "coin": "JASMY",
+    "direction": "LONG",
+    "entry_price": 0.004351,
+    "take_profits": [
+      0.004576
+    ],
+    "stop_loss": 0.004038,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -71.9375,
+    "source_msg_id": 12408,
+    "forwarded_msg_id": 2145,
+    "opened_at": "2026-10-25T13:40:41.878997+00:00",
+    "closed_at": "2026-10-26T13:02:43+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12410": {
+    "coin": "OP",
+    "direction": "LONG",
+    "entry_price": 0.11028,
+    "take_profits": [
+      0.12048
+    ],
+    "stop_loss": 0.9938,
+    "leverage": 5,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 0.0,
+    "source_msg_id": 12410,
+    "forwarded_msg_id": 2147,
+    "opened_at": "2026-10-25T13:50:43.083867+00:00",
+    "closed_at": "2026-10-26T13:02:44+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12412": {
     "coin": "ZEC",
     "direction": "LONG",
@@ -6657,11 +6695,49 @@
     "leverage": 5,
     "status": "CANCELLED",
     "tps_hit": [],
-    "pnl_pct": 0.0,
+    "pnl_pct": 13.1232,
     "source_msg_id": 12412,
     "forwarded_msg_id": 2153,
     "opened_at": "2026-10-25T14:36:00.248241+00:00",
-    "closed_at": "2026-10-26T12:55:22.602187+00:00",
+    "closed_at": "2026-10-26T13:02:45+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12414": {
+    "coin": "INJ",
+    "direction": "LONG",
+    "entry_price": 7.4275,
+    "take_profits": [
+      8.356
+    ],
+    "stop_loss": 6.85,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 5.8762,
+    "source_msg_id": 12414,
+    "forwarded_msg_id": 2156,
+    "opened_at": "2026-10-25T15:21:16.987982+00:00",
+    "closed_at": "2026-10-26T13:02:45+00:00",
+    "entry_high": 7.658,
+    "entry_low": 7.197
+  },
+  "12416": {
+    "coin": "APT",
+    "direction": "LONG",
+    "entry_price": 0.7043,
+    "take_profits": [
+      0.723
+    ],
+    "stop_loss": 0.6824,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -31.0947,
+    "source_msg_id": 12416,
+    "forwarded_msg_id": 2159,
+    "opened_at": "2026-10-25T16:56:50.096690+00:00",
+    "closed_at": "2026-10-26T13:02:48+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
