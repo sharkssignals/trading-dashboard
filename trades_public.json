@@ -6838,6 +6838,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12428": {
+    "coin": "LTC",
+    "direction": "LONG",
+    "entry_price": 57.79,
+    "take_profits": [
+      61.16
+    ],
+    "stop_loss": 53.6,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -72.5039,
+    "source_msg_id": 12428,
+    "forwarded_msg_id": 2190,
+    "opened_at": "2026-10-28T11:59:28.514538+00:00",
+    "closed_at": "2026-10-29T08:42:55+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12431": {
     "coin": "APT",
     "direction": "SHORT",
