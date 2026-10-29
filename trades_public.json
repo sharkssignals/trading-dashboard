@@ -6837,5 +6837,24 @@
     "closed_at": "2026-10-26T13:02:48+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12431": {
+    "coin": "APT",
+    "direction": "SHORT",
+    "entry_price": 0.6878,
+    "take_profits": [
+      0.6567
+    ],
+    "stop_loss": 0.7265,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 45.2166,
+    "source_msg_id": 12431,
+    "forwarded_msg_id": 2193,
+    "opened_at": "2026-10-28T12:20:12.353726+00:00",
+    "closed_at": "2026-10-29T03:32:18.162918+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
