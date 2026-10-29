@@ -6876,6 +6876,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12435": {
+    "coin": "BNB",
+    "direction": "SHORT",
+    "entry_price": 749.33,
+    "take_profits": [
+      693.0
+    ],
+    "stop_loss": 781.26,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 11.7077,
+    "source_msg_id": 12435,
+    "forwarded_msg_id": 2199,
+    "opened_at": "2026-10-28T14:15:54.626422+00:00",
+    "closed_at": "2026-10-29T15:09:46+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12446": {
     "coin": "BNB",
     "direction": "LONG",
