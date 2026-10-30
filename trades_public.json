@@ -6972,43 +6972,5 @@
     "closed_at": "2026-10-29T20:50:45+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
-  },
-  "12454": {
-    "coin": "CHZ",
-    "direction": "LONG",
-    "entry_price": 0.1293,
-    "take_profits": [
-      0.01369
-    ],
-    "stop_loss": 0.01229,
-    "leverage": 10,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -904.9497,
-    "source_msg_id": 12454,
-    "forwarded_msg_id": 2221,
-    "opened_at": "2026-10-29T15:06:21.266048+00:00",
-    "closed_at": "2026-10-29T20:42:57+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "12455": {
-    "coin": "CHZ",
-    "direction": "LONG",
-    "entry_price": 0.1295,
-    "take_profits": [
-      0.1369
-    ],
-    "stop_loss": 0.01229,
-    "leverage": 10,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -905.0965,
-    "source_msg_id": 12455,
-    "forwarded_msg_id": 2222,
-    "opened_at": "2026-10-29T15:06:21.610237+00:00",
-    "closed_at": "2026-10-29T20:42:57+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
   }
 }
