@@ -6876,6 +6876,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12433": {
+    "coin": "ADA",
+    "direction": "SHORT",
+    "entry_price": 0.2031,
+    "take_profits": [
+      0.1744
+    ],
+    "stop_loss": 0.2243,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 75.8247,
+    "source_msg_id": 12433,
+    "forwarded_msg_id": 2196,
+    "opened_at": "2026-10-28T12:50:24.322775+00:00",
+    "closed_at": "2026-11-03T06:31:25+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12435": {
     "coin": "BNB",
     "direction": "SHORT",
@@ -6894,6 +6913,25 @@
     "forwarded_msg_id": 2199,
     "opened_at": "2026-10-28T14:15:54.626422+00:00",
     "closed_at": "2026-10-29T15:09:46+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12440": {
+    "coin": "SNOW",
+    "direction": "SHORT",
+    "entry_price": 326.75,
+    "take_profits": [
+      279.0
+    ],
+    "stop_loss": 354.46,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 113.0222,
+    "source_msg_id": 12440,
+    "forwarded_msg_id": 2205,
+    "opened_at": "2026-10-29T12:40:18.433770+00:00",
+    "closed_at": "2026-11-03T06:31:25+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
@@ -6970,6 +7008,101 @@
     "forwarded_msg_id": 2219,
     "opened_at": "2026-10-29T13:55:55.509357+00:00",
     "closed_at": "2026-10-29T20:50:45+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12462": {
+    "coin": "INJ",
+    "direction": "SHORT",
+    "entry_price": 7.137,
+    "take_profits": [
+      6.376
+    ],
+    "stop_loss": 8.102,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 5.8762,
+    "source_msg_id": 12462,
+    "forwarded_msg_id": 2232,
+    "opened_at": "2026-11-01T18:35:15.994810+00:00",
+    "closed_at": "2026-10-26T13:02:45+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12464": {
+    "coin": "NEAR",
+    "direction": "SHORT",
+    "entry_price": 4.287,
+    "take_profits": [
+      3.304
+    ],
+    "stop_loss": 5.1,
+    "leverage": 5,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 59.2489,
+    "source_msg_id": 12464,
+    "forwarded_msg_id": 2233,
+    "opened_at": "2026-11-01T18:35:16.682303+00:00",
+    "closed_at": "2026-11-03T06:31:26+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12468": {
+    "coin": "BCH",
+    "direction": "SHORT",
+    "entry_price": 273.55,
+    "take_profits": [
+      259.2
+    ],
+    "stop_loss": 289.2,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -57.2107,
+    "source_msg_id": 12468,
+    "forwarded_msg_id": 2238,
+    "opened_at": "2026-11-02T17:41:08.183321+00:00",
+    "closed_at": "2026-11-03T06:31:26+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12469": {
+    "coin": "GRASS",
+    "direction": "SHORT",
+    "entry_price": 0.561,
+    "take_profits": [
+      0.4576
+    ],
+    "stop_loss": 0.6416,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 8.5561,
+    "source_msg_id": 12469,
+    "forwarded_msg_id": 2241,
+    "opened_at": "2026-11-02T17:44:16.887076+00:00",
+    "closed_at": "2026-11-03T06:31:33+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12472": {
+    "coin": "AR",
+    "direction": "SHORT",
+    "entry_price": 3.073,
+    "take_profits": [
+      2.881
+    ],
+    "stop_loss": 3.259,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": -60.5272,
+    "source_msg_id": 12472,
+    "forwarded_msg_id": 2244,
+    "opened_at": "2026-11-02T18:15:04.496023+00:00",
+    "closed_at": "2026-11-03T06:31:33+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
