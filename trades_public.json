@@ -2030,7 +2030,7 @@
       0.0227,
       0.0234
     ],
-    "stop_loss": 62510.0,
+    "stop_loss": 0.06251,
     "leverage": 10,
     "status": "SL",
     "tps_hit": [
@@ -5541,7 +5541,7 @@
     "take_profits": [
       0.06901
     ],
-    "stop_loss": 0.7781,
+    "stop_loss": 0.07781,
     "leverage": 10,
     "status": "CLOSED",
     "tps_hit": [
@@ -6414,7 +6414,7 @@
     "direction": "LONG",
     "entry_price": 0.05191,
     "take_profits": [
-      0.533
+      0.0533
     ],
     "stop_loss": 0.04961,
     "leverage": 10,
@@ -6769,7 +6769,7 @@
     "take_profits": [
       0.12048
     ],
-    "stop_loss": 0.9938,
+    "stop_loss": 0.09938,
     "leverage": 5,
     "status": "CANCELLED",
     "tps_hit": [],
