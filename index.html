@@ -146,7 +146,7 @@ async function loadData() {
     const r = await fetch(DATA_URL);
     const raw = await r.json();
     const trades = Object.values(raw).filter(t =>
-      ["CLOSED","SL","TP1","TP2","TP3"].includes(t.status)
+      ["CLOSED","SL","TP1","TP2","TP3","CANCELLED"].includes(t.status)
     ).sort((a,b) => (a.closed_at || a.opened_at || "").localeCompare(b.closed_at || b.opened_at || ""));
     if (!trades.length) { document.getElementById('app').innerHTML = '<div class="loading">No closed trades yet.</div>'; return; }
     render(trades);
@@ -507,7 +507,7 @@ function renderTradeLog(trades) {
     else if(h>=1) result = '<span class="tag tp1">TP1</span>';
     else if(t.pnl_pct>=0) result = '<span class="tag win">WIN</span>';
     else result = '<span class="tag loss">LOSS</span>';
-    const date = t.closed_at ? t.closed_at.slice(0,10) : '—';
+    const date = t.closed_at ? t.closed_at.slice(0,10) : (t.opened_at ? t.opened_at.slice(0,10) + ' →' : '—');
     const pnlColor = t.pnl_pct >= 0 ? 'var(--green)' : 'var(--red)';
     return `<tr>
       <td style="color:var(--white)">${t.coin}/USDT</td><td>${dir}</td><td>${t.leverage}x</td>
