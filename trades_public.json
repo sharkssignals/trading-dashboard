@@ -7105,5 +7105,43 @@
     "closed_at": "2026-11-03T06:31:33+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12474": {
+    "coin": "ZRO",
+    "direction": "SHORT",
+    "entry_price": 1.869,
+    "take_profits": [
+      1.531
+    ],
+    "stop_loss": 2.121,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 12.4131,
+    "source_msg_id": 12474,
+    "forwarded_msg_id": 2254,
+    "opened_at": "2026-11-03T19:43:44.761854+00:00",
+    "closed_at": "2026-11-04T04:44:01+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12477": {
+    "coin": "LTC",
+    "direction": "SHORT",
+    "entry_price": 54.17,
+    "take_profits": [
+      51.46
+    ],
+    "stop_loss": 57.61,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 17.5374,
+    "source_msg_id": 12477,
+    "forwarded_msg_id": 2258,
+    "opened_at": "2026-11-03T19:50:43.745293+00:00",
+    "closed_at": "2026-11-04T04:44:01+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
