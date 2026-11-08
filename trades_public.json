@@ -7143,5 +7143,85 @@
     "closed_at": "2026-11-04T04:44:01+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12479": {
+    "coin": "APT",
+    "direction": "SHORT",
+    "entry_price": 0.6529,
+    "take_profits": [
+      0.5531
+    ],
+    "stop_loss": 0.9687699999999999,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 45.2166,
+    "source_msg_id": 12479,
+    "forwarded_msg_id": 2264,
+    "opened_at": "2026-11-04T15:25:18.397281+00:00",
+    "closed_at": "2026-10-29T03:32:26+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12484": {
+    "coin": "OP",
+    "direction": "SHORT",
+    "entry_price": 0.10614,
+    "take_profits": [
+      0.09047
+    ],
+    "stop_loss": 0.11972,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 122.8518,
+    "source_msg_id": 12484,
+    "forwarded_msg_id": 2270,
+    "opened_at": "2026-11-06T21:11:04.281558+00:00",
+    "closed_at": "2026-10-26T17:18:56+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12486": {
+    "coin": "XRP",
+    "direction": "SHORT",
+    "entry_price": 1.1718,
+    "take_profits": [
+      1.027
+    ],
+    "stop_loss": 1.326,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 24.6182,
+    "source_msg_id": 12486,
+    "forwarded_msg_id": 2273,
+    "opened_at": "2026-11-07T12:00:05.081581+00:00",
+    "closed_at": "2026-10-21T07:55:12+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12491": {
+    "coin": "HBAR",
+    "direction": "SHORT",
+    "entry_price": 0.0676,
+    "take_profits": [
+      0.06
+    ],
+    "stop_loss": 0.07279,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 15.2367,
+    "source_msg_id": 12491,
+    "forwarded_msg_id": 2276,
+    "opened_at": "2026-11-07T13:55:47.164235+00:00",
+    "closed_at": "2026-11-08T09:35:27+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
