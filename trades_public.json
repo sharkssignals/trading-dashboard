@@ -7261,5 +7261,26 @@
     "closed_at": "2026-11-10T03:29:29+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12508": {
+    "coin": "CTK",
+    "direction": "LONG",
+    "entry_price": 0.0813,
+    "take_profits": [
+      0.083
+    ],
+    "stop_loss": 0.0748,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 20.9102,
+    "source_msg_id": 12508,
+    "forwarded_msg_id": 2299,
+    "opened_at": "2026-11-10T18:00:04.905580+00:00",
+    "closed_at": "2026-11-11T00:21:01+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
