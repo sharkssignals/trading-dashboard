@@ -7280,5 +7280,24 @@
     "closed_at": "2026-11-11T00:25:12.529834+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12514": {
+    "coin": "CROSS",
+    "direction": "LONG",
+    "entry_price": 0.10577,
+    "take_profits": [
+      0.10851
+    ],
+    "stop_loss": 0.10217,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 25.9053,
+    "source_msg_id": 12514,
+    "forwarded_msg_id": 2306,
+    "opened_at": "2026-11-11T10:41:40.771326+00:00",
+    "closed_at": "2026-11-12T06:04:50.020955+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
