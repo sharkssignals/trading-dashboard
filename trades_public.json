@@ -7281,6 +7281,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12502": {
+    "coin": "ETH",
+    "direction": "LONG",
+    "entry_price": 2017.0,
+    "take_profits": [
+      2321.0
+    ],
+    "stop_loss": 1824.89,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": 23.2365,
+    "source_msg_id": 12502,
+    "forwarded_msg_id": 2293,
+    "opened_at": "2026-11-10T17:11:51.867045+00:00",
+    "closed_at": "2026-10-22T08:34:19+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12505": {
     "coin": "BTC",
     "direction": "LONG",
