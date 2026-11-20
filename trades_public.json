@@ -7509,6 +7509,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12543": {
+    "coin": "INJ",
+    "direction": "LONG",
+    "entry_price": 7.046,
+    "take_profits": [
+      8.225
+    ],
+    "stop_loss": 6.376,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -95.0894,
+    "source_msg_id": 12543,
+    "forwarded_msg_id": 2344,
+    "opened_at": "2026-11-18T19:55:11.514418+00:00",
+    "closed_at": "2026-11-20T12:07:23+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12548": {
     "coin": "SHIB",
     "direction": "LONG",
