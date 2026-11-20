@@ -7527,5 +7527,24 @@
     "closed_at": "2026-11-19T21:16:31+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12552": {
+    "coin": "OP",
+    "direction": "LONG",
+    "entry_price": 0.07579,
+    "take_profits": [
+      0.07774
+    ],
+    "stop_loss": 0.07284,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 41.2818,
+    "source_msg_id": 12552,
+    "forwarded_msg_id": 2352,
+    "opened_at": "2026-11-19T17:42:00.949950+00:00",
+    "closed_at": "2026-11-08T09:35:27+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
