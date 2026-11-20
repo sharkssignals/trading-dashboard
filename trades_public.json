@@ -7547,6 +7547,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12550": {
+    "coin": "CHZ",
+    "direction": "LONG",
+    "entry_price": 0.009878,
+    "take_profits": [
+      0.0111216
+    ],
+    "stop_loss": 0.009044,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -84.43,
+    "source_msg_id": 12550,
+    "forwarded_msg_id": 2349,
+    "opened_at": "2026-11-19T15:06:08.700993+00:00",
+    "closed_at": "2026-11-20T15:16:11+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12552": {
     "coin": "OP",
     "direction": "LONG",
@@ -7582,6 +7601,63 @@
     "forwarded_msg_id": 2357,
     "opened_at": "2026-11-20T09:51:29.321011+00:00",
     "closed_at": "2026-11-20T15:19:24+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12555": {
+    "coin": "BCH",
+    "direction": "LONG",
+    "entry_price": 477.85,
+    "take_profits": [
+      498.0
+    ],
+    "stop_loss": 449.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -60.3746,
+    "source_msg_id": 12555,
+    "forwarded_msg_id": 2360,
+    "opened_at": "2026-11-20T10:41:47.854622+00:00",
+    "closed_at": "2026-11-20T15:22:09+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12557": {
+    "coin": "XMR",
+    "direction": "LONG",
+    "entry_price": 477.85,
+    "take_profits": [
+      498.0
+    ],
+    "stop_loss": 449.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -60.3746,
+    "source_msg_id": 12557,
+    "forwarded_msg_id": 2361,
+    "opened_at": "2026-11-20T10:41:48.229904+00:00",
+    "closed_at": "2026-11-20T15:24:00+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12559": {
+    "coin": "BCH",
+    "direction": "LONG",
+    "entry_price": 203.15,
+    "take_profits": [
+      212.43
+    ],
+    "stop_loss": 192.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -54.8856,
+    "source_msg_id": 12559,
+    "forwarded_msg_id": 2364,
+    "opened_at": "2026-11-20T10:46:52.083770+00:00",
+    "closed_at": "2026-11-20T15:17:15+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
