@@ -7565,5 +7565,62 @@
     "closed_at": "2026-11-08T09:35:27+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12554": {
+    "coin": "ETH",
+    "direction": "LONG",
+    "entry_price": 1749.76,
+    "take_profits": [
+      1802.0
+    ],
+    "stop_loss": 1685.0,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -37.0108,
+    "source_msg_id": 12554,
+    "forwarded_msg_id": 2357,
+    "opened_at": "2026-11-20T09:51:29.321011+00:00",
+    "closed_at": "2026-11-20T15:19:24+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12561": {
+    "coin": "CHZ",
+    "direction": "LONG",
+    "entry_price": 0.009695,
+    "take_profits": [
+      0.01
+    ],
+    "stop_loss": 0.009337,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -36.9263,
+    "source_msg_id": 12561,
+    "forwarded_msg_id": 2365,
+    "opened_at": "2026-11-20T10:46:52.476899+00:00",
+    "closed_at": "2026-11-20T15:16:11+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "12562": {
+    "coin": "BCH",
+    "direction": "LONG",
+    "entry_price": 199.3,
+    "take_profits": [
+      213.0
+    ],
+    "stop_loss": 193.98,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -26.6934,
+    "source_msg_id": 12562,
+    "forwarded_msg_id": 2371,
+    "opened_at": "2026-11-20T13:55:57.469349+00:00",
+    "closed_at": "2026-11-20T15:17:15+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
