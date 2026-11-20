@@ -7509,6 +7509,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12535": {
+    "coin": "XTZ",
+    "direction": "SHORT",
+    "entry_price": 0.2264,
+    "take_profits": [
+      0.1929
+    ],
+    "stop_loss": 0.2489,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 147.9682,
+    "source_msg_id": 12535,
+    "forwarded_msg_id": 2334,
+    "opened_at": "2026-11-14T08:51:01.294443+00:00",
+    "closed_at": "2026-11-20T17:06:51.924809+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12537": {
     "coin": "INIT",
     "direction": "SHORT",
