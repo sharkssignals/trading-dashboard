@@ -7755,5 +7755,24 @@
     "closed_at": "2026-11-20T23:00:55+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12572": {
+    "coin": "ASTER",
+    "direction": "LONG",
+    "entry_price": 0.5056,
+    "take_profits": [
+      0.5249
+    ],
+    "stop_loss": 0.4835,
+    "leverage": 10,
+    "status": "CANCELLED",
+    "tps_hit": [],
+    "pnl_pct": 18.6835,
+    "source_msg_id": 12572,
+    "forwarded_msg_id": 2389,
+    "opened_at": "2026-11-20T22:11:39.046962+00:00",
+    "closed_at": "2026-10-26T13:02:39+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
