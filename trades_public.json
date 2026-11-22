@@ -7774,5 +7774,24 @@
     "closed_at": "2026-10-26T13:02:39+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12580": {
+    "coin": "TAO",
+    "direction": "LONG",
+    "entry_price": 178.69,
+    "take_profits": [
+      192.21
+    ],
+    "stop_loss": 164.45,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 75.5456,
+    "source_msg_id": 12580,
+    "forwarded_msg_id": 2403,
+    "opened_at": "2026-11-21T10:26:33.105198+00:00",
+    "closed_at": "2026-11-22T09:51:21.571715+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
