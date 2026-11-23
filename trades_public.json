@@ -7737,6 +7737,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12565": {
+    "coin": "CHR",
+    "direction": "SHORT",
+    "entry_price": 0.01234,
+    "take_profits": [
+      0.01088
+    ],
+    "stop_loss": 0.01314,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -64.8298,
+    "source_msg_id": 12565,
+    "forwarded_msg_id": 2380,
+    "opened_at": "2026-11-20T16:11:30.974127+00:00",
+    "closed_at": "2026-11-23T14:20:39+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12569": {
     "coin": "LTC",
     "direction": "SHORT",
