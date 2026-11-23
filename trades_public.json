@@ -7812,5 +7812,24 @@
     "closed_at": "2026-11-22T09:51:21.571715+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12584": {
+    "coin": "COMP",
+    "direction": "LONG",
+    "entry_price": 17.15,
+    "take_profits": [
+      18.06
+    ],
+    "stop_loss": 16.23,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [],
+    "pnl_pct": 53.0612,
+    "source_msg_id": 12584,
+    "forwarded_msg_id": 2409,
+    "opened_at": "2026-11-21T13:45:39.260568+00:00",
+    "closed_at": "2026-11-23T14:28:30.908044+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
