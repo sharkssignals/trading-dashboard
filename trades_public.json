@@ -7854,5 +7854,26 @@
     "closed_at": "2026-11-25T17:18:47+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "12596": {
+    "coin": "LTC",
+    "direction": "LONG",
+    "entry_price": 41.4,
+    "take_profits": [
+      43.57
+    ],
+    "stop_loss": 36.69,
+    "leverage": 10,
+    "status": "CLOSED",
+    "tps_hit": [
+      3
+    ],
+    "pnl_pct": 52.4155,
+    "source_msg_id": 12596,
+    "forwarded_msg_id": 2427,
+    "opened_at": "2026-11-25T17:11:48.397877+00:00",
+    "closed_at": "2026-11-26T02:03:14+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
