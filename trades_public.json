@@ -7855,6 +7855,25 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "12594": {
+    "coin": "XMR",
+    "direction": "LONG",
+    "entry_price": 507.42,
+    "take_profits": [
+      567.0
+    ],
+    "stop_loss": 438.56,
+    "leverage": 10,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -135.7061,
+    "source_msg_id": 12594,
+    "forwarded_msg_id": 2424,
+    "opened_at": "2026-11-25T11:26:56.560147+00:00",
+    "closed_at": "2026-11-26T14:48:48+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "12596": {
     "coin": "LTC",
     "direction": "LONG",
